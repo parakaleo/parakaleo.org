@@ -1,0 +1,46 @@
+{
+  "title": "parakaleo",
+  "name": "parakaleo-main-site",
+  "version": "1.0.0",
+  "description": "parakaleo.org",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "css",
+    "sass",
+    "html",
+    "responsive",
+    "theme",
+    "template"
+  ],
+  "homepage": "https://github.com/parakaleo/main-site",
+  "bugs": {
+    "url": "https://github.com/parakaleo/main-site/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parakaleo/main-site.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.0.0-beta",
+    "connect": "^3.6.1",
+    "font-awesome": "4.7.0",
+    "glob": "^7.1.6",
+    "jquery": "^3.2.1",
+    "livereload": "^0.6.2",
+    "popper.js": "1.12.3",
+    "pretty": "^2.0.0",
+    "serve-static": "^1.12.2"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "3.7.0",
+    "gulp-header": "1.8.9",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "3.0.0"
+  }
+}
