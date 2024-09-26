@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Parakaleo Christian Ministries</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css" />
+
+    <!-- Custom styles for this template -->
+    <link href="css/clean-blog.min.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="js/dev.js"></script>
+  </head>
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand" href="index.html">Parakaleo Christian Ministries</a>
+        <button class="navbar-toggler navbar-toggler-right collapsed" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarResponsive" style="">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="news.html">News</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="resources.html">Resources</a>
+            </li>
+            <li class="nav-item dropdown" style="display: none;">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownBlog" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+              <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownBlog">
+                <a class="dropdown-item" href="resources.html">Overview</a>
+                <div class="dropdown-divider"></div><a class="dropdown-item" href="resources.html#course-notes">Course Notes</a>
+                <a class="dropdown-item" href="resources.html#recordings">Recordings</a>
+                <a class="dropdown-item" href="resources.html#romans-8">The Romans 8 Book</a>
+              </div>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a>
+            </li>
+            <li class="nav-item"><a class="nav-link" href="donate.html">DONATE</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Header -->
+    <header class="masthead" style="background-color: #6495ED;opacity: 0.95;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <div class="page-heading" style="padding-top:100px;padding-bottom:70px">
+              <h1 style="font-size:45px">BCC Podcast</h1>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="container readable">
+      <h2>Background to Philippians & Sleuthing through Acts</h1>
+      <h5>Fall 2024, Class 1</h5>
+    </div>
+
+    <div class="container readable" style="padding: 0;">
+      <audio id="player" controls>
+        <source src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-8-26/613899c6-0da7-c065-4006-1d1d50afa166.mp3"
+          type="audio/mp3">
+        Your browser does not support the audio element.
+      </audio>
+    </div>
+    <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
+    <script>
+      // Initialize Plyr
+      const player = new Plyr('#player', {
+        controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+      });
+    </script>
+
+    <div id="content" class="container readable">
+    </div>
+    <hr />
+
+    <style>
+      .readable {
+        font-size: 18px; /* Adjust font size for better readability */
+        line-height: 1.6; /* Increase line height for better readability */
+        color: #333; /* Dark gray text for less contrast strain compared to pure black */
+        max-width: 700px; /* Limit the width for easier eye movement */
+        margin: 0 auto; /* Center the paragraph */
+        padding: 20px; /* Add padding around the text */
+        text-align: left; /* Align text to the left for readability */
+        background-color: #fafafa; /* Light background to reduce eye strain */
+        word-wrap: break-word; /* Handle long words without breaking layout */
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to help focus on the content */
+        border-radius: 5px; /* Slight rounding of corners for softer visuals */
+        margin-bottom: 1em;
+      }
+    </style>
+    <script>
+      // Function to fetch and render the markdown file
+      async function fetchAndRenderMarkdown() {
+        try {
+          // Fetch the markdown file from the local server (assuming it's in the same directory)
+          const response = await fetch('/documents/bcc-pod/Transcript-BCC Fall 2024, Class 1- Background to Philippians & Sleuthing through Acts.md');
+          if (!response.ok) {
+            throw new Error('Failed to fetch markdown file');
+          }
+
+          // Get the markdown text from the response
+          const markdownText = await response.text();
+
+          // Convert the markdown to HTML using marked.js
+          const renderedHTML = marked.parse(markdownText);
+
+          // Display the rendered HTML in the content div
+          document.getElementById('content').innerHTML = renderedHTML;
+        } catch (error) {
+          console.error('Error:', error);
+          document.getElementById('content').innerHTML = '<p>Error loading markdown file.</p>';
+        }
+      }
+
+      // Call the function on page load
+      addEventListener('DOMContentLoaded', fetchAndRenderMarkdown);
+    </script>
+
+
+    <!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-md-10 mx-auto">
+            <ul class="list-inline text-center">
+              <li class="list-inline-item">
+                <a href="index.html">Home</a>
+              </li>
+              <li class="footer-menu-divider list-inline-item">⋅</li>
+              <li class="list-inline-item">
+                <a href="about.html">About</a>
+              </li>
+              <li class="footer-menu-divider list-inline-item">⋅</li>
+              <li class="list-inline-item">
+                <a href="news.html">News</a>
+              </li>
+              <li class="footer-menu-divider list-inline-item">⋅</li>
+              <li class="list-inline-item">
+                <a href="resources.html">Resources</a>
+              </li>
+              <li class="footer-menu-divider list-inline-item">⋅</li>
+              <li class="list-inline-item">
+                <a href="contact.html">Contact</a>
+              </li>
+              <li class="footer-menu-divider list-inline-item">⋅</li>
+              <li class="list-inline-item">
+                <a href="donate.html">Donate</a></li>
+            </ul>
+            <p class="copyright text-muted">
+              Copyright © Steve and Erica Lawry.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/popper/popper.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Custom scripts for this template -->
+    <script src="js/clean-blog.min.js"></script>
+  </body>
+</html>
