@@ -190,7 +190,11 @@
           $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
           // Initialize Plyr
           const player = new Plyr('#player', {
-            controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+            controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'settings'],
+            settings: ['speed'],
+            speed: {
+              options: [0.75, 0.9, 1, 1.1, 1.25, 1.5]
+            }
           });
         } catch (error) {
           onError(error);
