@@ -20,6 +20,7 @@
 
     <link rel="stylesheet" href="https://cdn.plyr.io/3.7.8/plyr.css">
     <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
     <script src="js/dev.js"></script>
   </head>
   <body>
@@ -77,54 +78,174 @@
       </div>
     </header>
 
-    <div class="container readable">
-      <h2>Background to Philippians & Sleuthing through Acts</h1>
-      <h5>Fall 2024, Class 1</h5>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-3 col-md-3" style="padding-bottom: 3rem;">
+          <ul class="nav nav-pills nav-stacked" data-class="tabs-wrap">
+          </ul>
+        </div>
+
+
+        <div class="col-lg-9 col-md-9">
+          <div class="container readable d-none" data-class="error-wrap">
+            <div class="alert alert-danger" role="alert">
+              <strong>Error</strong>
+              <span data-class="error-msg"></span>
+            </div>
+          </div>
+
+          <div class="container readable">
+            <h2 data-class="title">
+              </h1>
+              <h5 data-class="session"></h5>
+          </div>
+
+          <div class="container readable" style="padding: 0;">
+            <audio id="player" controls>
+              <source data-class="audiosrc" type="audio/mp3">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+
+          <div id="content" class="container readable">
+          </div>
+        </div>
+      </div>
     </div>
 
-    <div class="container readable" style="padding: 0;">
-      <audio id="player" controls>
-        <source src="https://d3ctxlq1ktw2nl.cloudfront.net/staging/2024-8-26/613899c6-0da7-c065-4006-1d1d50afa166.mp3"
-          type="audio/mp3">
-        Your browser does not support the audio element.
-      </audio>
-    </div>
-    <script src="https://cdn.plyr.io/3.7.8/plyr.polyfilled.js"></script>
-    <script>
-      // Initialize Plyr
-      const player = new Plyr('#player', {
-        controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
-      });
-    </script>
-
-    <div id="content" class="container readable">
-    </div>
-    <hr />
 
     <style>
       .readable {
-        font-size: 18px; /* Adjust font size for better readability */
-        line-height: 1.6; /* Increase line height for better readability */
-        color: #333; /* Dark gray text for less contrast strain compared to pure black */
-        max-width: 700px; /* Limit the width for easier eye movement */
-        margin: 0 auto; /* Center the paragraph */
-        padding: 20px; /* Add padding around the text */
-        text-align: left; /* Align text to the left for readability */
-        background-color: #fafafa; /* Light background to reduce eye strain */
-        word-wrap: break-word; /* Handle long words without breaking layout */
-        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); /* Add a subtle shadow to help focus on the content */
-        border-radius: 5px; /* Slight rounding of corners for softer visuals */
+        font-size: 18px;
+        /* Adjust font size for better readability */
+        line-height: 1.6;
+        /* Increase line height for better readability */
+        color: #333;
+        /* Dark gray text for less contrast strain compared to pure black */
+        max-width: 700px;
+        /* Limit the width for easier eye movement */
+        margin: 0 auto;
+        /* Center the paragraph */
+        padding: 20px;
+        /* Add padding around the text */
+        text-align: left;
+        /* Align text to the left for readability */
+        background-color: #fafafa;
+        /* Light background to reduce eye strain */
+        word-wrap: break-word;
+        /* Handle long words without breaking layout */
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        /* Add a subtle shadow to help focus on the content */
+        border-radius: 5px;
+        /* Slight rounding of corners for softer visuals */
         margin-bottom: 1em;
       }
     </style>
     <script>
+      const RSS_FEED = 'https://anchor.fm/s/fb8da4e0/podcast/rss'
+      const onError = (error) => {
+        $('[data-class="error-wrap"]').removeClass('d-none');
+        $('[data-class="error-msg"]').text(error.message);
+      }
+      async function fetchPodcastRSS() {
+        try {
+          const response = await fetch(RSS_FEED);
+          if (!response.ok) {
+            throw new Error('Failed to fetch RSS feed');
+          }
+
+          const rssText = await response.text();
+          const parser = new DOMParser();
+          const rssDoc = parser.parseFromString(rssText, 'application/xml');
+
+          const title = rssDoc.querySelector('channel > title')?.textContent;
+          const episodes = rssDoc.querySelectorAll('item');
+
+          const episodeData = Array.from(episodes).map((episode) => ({
+            guid: episode.querySelector('guid')?.textContent,
+            title: episode.querySelector('title')?.textContent,
+            pubDate: episode.querySelector('pubDate')?.textContent,
+            link: episode.querySelector('link')?.textContent,
+            audioUrl: episode.querySelector('enclosure').getAttribute('url'),
+            description: episode.querySelector('description')?.textContent,
+          }));
+
+          console.log({ title, episodes: episodeData });
+          handleTabs(episodeData);
+
+          const urlParams = new URLSearchParams(window.location.search);
+          const id = urlParams.get('id');
+
+          const episode = id ? episodeData.find((ep) => ep.guid === id) : episodeData[0];
+          fetchAndRenderMarkdown(`/documents/bcc-pod/${episode.guid}.md`);
+          const date = new Date(episode.pubDate);
+          const ds = date.toLocaleString(navigator?.language || 'en-US', {
+            weekday: 'long',
+            year: 'numeric',
+            month: 'long',
+            day: 'numeric',
+          });
+          $('[data-class="title"]').text(episode.title);
+          $('[data-class="session"]').text(ds);
+          $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
+          // Initialize Plyr
+          const player = new Plyr('#player', {
+            controls: ['play', 'progress', 'current-time', 'mute', 'volume'],
+          });
+        } catch (error) {
+          onError(error);
+        }
+      }
+
+      const handleTabs = (episodeData) => {
+        const urlParams = new URLSearchParams(window.location.search);
+        const id = urlParams.get('id') || episodeData[0].guid;
+        $('[data-class="tabs-wrap"]').html(
+          episodeData.map((episode) => {
+            return `<a href="?id=${episode.guid}" class="${id === episode.guid ? 'active' : ''}">
+              <li class="btn text-ellipsis">${episode.title.split(':')[0]}</li>
+            </a>`;
+          }).join('')
+        );
+        $(`<style class="tab-styles">
+          [data-class="tabs-wrap"] a.active {
+            background-color: #f0f8ff;
+          }
+          [data-class="tabs-wrap"] a {
+            width: 100%;
+          }
+          [data-class="tabs-wrap"] a li {
+            text-align: left;
+          }
+          ul.typography li {
+            margin: 10px 0px;
+          }
+          a.obvious {
+            color: #007bff;
+          }
+          .text-ellipsis {
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: normal;
+          }
+  </style>`).appendTo('head');
+      }
+
+      // Call the function on page load
+      addEventListener('DOMContentLoaded', () => fetchPodcastRSS());
+
       // Function to fetch and render the markdown file
-      async function fetchAndRenderMarkdown() {
+      async function fetchAndRenderMarkdown(url) {
         try {
           // Fetch the markdown file from the local server (assuming it's in the same directory)
-          const response = await fetch('/documents/bcc-pod/Transcript-BCC Fall 2024, Class 1- Background to Philippians & Sleuthing through Acts.md');
+          const response = await fetch(url);
           if (!response.ok) {
-            throw new Error('Failed to fetch markdown file');
+            const fileName = url.split('/').pop()
+            console.log(`Missing transcript ${fileName}`);
+            throw new Error(`Missing transcript ${fileName}`);
           }
 
           // Get the markdown text from the response
@@ -134,18 +255,15 @@
           const renderedHTML = marked.parse(markdownText);
 
           // Display the rendered HTML in the content div
-          document.getElementById('content').innerHTML = renderedHTML;
+          $('#content').html(renderedHTML);
         } catch (error) {
-          console.error('Error:', error);
-          document.getElementById('content').innerHTML = '<p>Error loading markdown file.</p>';
+          $('#content').text(`The transcript is not yet available.`);
         }
       }
 
-      // Call the function on page load
-      addEventListener('DOMContentLoaded', fetchAndRenderMarkdown);
     </script>
 
-
+    <hr />
     <!-- Footer -->
     <footer>
       <div class="container">
@@ -173,7 +291,8 @@
               </li>
               <li class="footer-menu-divider list-inline-item">⋅</li>
               <li class="list-inline-item">
-                <a href="donate.html">Donate</a></li>
+                <a href="donate.html">Donate</a>
+              </li>
             </ul>
             <p class="copyright text-muted">
               Copyright © Steve and Erica Lawry.
@@ -188,11 +307,8 @@
     <script src="vendor/popper/popper.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-    <!-- Contact Form JavaScript -->
-    <script src="js/jqBootstrapValidation.js"></script>
-    <script src="js/contact_me.js"></script>
-
     <!-- Custom scripts for this template -->
     <script src="js/clean-blog.min.js"></script>
-  </body>
-</html>
+    </body>
+
+    </html>
