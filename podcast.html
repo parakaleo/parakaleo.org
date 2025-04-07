@@ -81,8 +81,9 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-3 col-md-3" style="padding-bottom: 3rem;">
-          <ul class="nav nav-pills nav-stacked" data-class="tabs-wrap">
-          </ul>
+          <div id="podcastAccordion" data-class="podcasts-accordion">
+            <!-- Podcast series accordions will be generated here -->
+          </div>
         </div>
 
 
@@ -137,28 +138,113 @@
         /* Slight rounding of corners for softer visuals */
         margin-bottom: 1em;
       }
+
+      .podcast-series {
+        margin-bottom: 10px;
+      }
+
+      .podcast-series-header {
+        background-color: #f8f9fa;
+        padding: 10px 15px;
+        border-radius: 4px;
+        cursor: pointer;
+        border: 1px solid #dee2e6;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .podcast-series-header.active {
+        background-color: #e9ecef;
+      }
+
+      .podcast-episodes {
+        padding-left: 0;
+        max-height: 0;
+        overflow: hidden;
+        transition: max-height 0.5s ease-out;
+      }
+
+      .podcast-episodes.show {
+        max-height: 1000px;
+      }
+
+      .episode-item {
+        padding: 8px 15px 8px 25px;
+        border-bottom: 1px solid #f0f0f0;
+        list-style-type: none;
+        font-size: 14px;
+
+        font-weight: 800;
+        padding: 15px 25px;
+        letter-spacing: 1px;
+        text-transform: uppercase;
+        border-radius: 0;
+        font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      }
+
+      .episode-item.active {
+        background-color: #f0f8ff;
+      }
     </style>
     <script>
-      const RSS_FEED = 'https://anchor.fm/s/fb8da4e0/podcast/rss'
+      // Array of RSS feeds - add your feeds here
+      const RSS_FEEDS = [
+        {
+          url: 'https://anchor.fm/s/10358b980/podcast/rss',
+          transcriptPath: '/documents/bcc-pod/'
+        },
+        {
+          url: 'https://anchor.fm/s/fb8da4e0/podcast/rss',
+          transcriptPath: '/documents/bcc-pod/'
+        },
+      ];
+
+      // Store all episode data
+      const allPodcastData = {};
+
       const onError = (error) => {
         $('[data-class="error-wrap"]').removeClass('d-none');
         $('[data-class="error-msg"]').text(error.message);
       }
-      async function fetchPodcastRSS() {
+
+      // Initialize when page is loaded
+      addEventListener('DOMContentLoaded', () => init());
+
+      async function init() {
         try {
-          const response = await fetch(RSS_FEED);
+          // Fetch all podcast data
+          await Promise.all(RSS_FEEDS.map(feed => fetchPodcastRSS(feed)));
+
+          // Build the accordion UI
+          buildAccordionUI();
+
+          // Load the first episode or the one specified in URL
+          loadEpisodeFromURL();
+
+        } catch (error) {
+          onError(error);
+        }
+      }
+
+      async function fetchPodcastRSS(feed) {
+        try {
+          const response = await fetch(feed.url);
           if (!response.ok) {
-            throw new Error('Failed to fetch RSS feed');
+            throw new Error(`Failed to fetch RSS feed ${feed.url}`);
           }
 
           const rssText = await response.text();
           const parser = new DOMParser();
           const rssDoc = parser.parseFromString(rssText, 'application/xml');
 
-          const title = rssDoc.querySelector('channel > title')?.textContent;
+          const channelTitle = rssDoc.querySelector('channel > title')?.textContent || 'Untitled Podcast';
           const episodes = rssDoc.querySelectorAll('item');
 
           const episodeData = Array.from(episodes).map((episode) => ({
+            podcastId: feed.url,
+            podcastTitle: channelTitle,
+            transcriptPath: feed.transcriptPath,
             guid: episode.querySelector('guid')?.textContent,
             title: episode.querySelector('title')?.textContent,
             pubDate: episode.querySelector('pubDate')?.textContent,
@@ -167,62 +253,89 @@
             description: episode.querySelector('description')?.textContent,
           }));
 
-          console.log({ title, episodes: episodeData });
-          handleTabs(episodeData);
+          // Store episodes data
+          allPodcastData[feed.url] = {
+            title: channelTitle,
+            episodes: episodeData
+          };
 
-          const urlParams = new URLSearchParams(window.location.search);
-          const id = urlParams.get('id');
+          console.log(`Loaded podcast: ${channelTitle} with ${episodeData.length} episodes`);
 
-          const episode = id ? episodeData.find((ep) => ep.guid === id) : episodeData[0];
-          fetchAndRenderMarkdown(`/documents/bcc-pod/${episode.guid}.md`);
-          const date = new Date(episode.pubDate);
-          const ds = date.toLocaleString(navigator?.language || 'en-US', {
-            weekday: 'long',
-            year: 'numeric',
-            month: 'long',
-            day: 'numeric',
-          });
-          $('[data-class="title"]').text(episode.title);
-          $('[data-class="session"]').text(ds);
-          $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
-          // Initialize Plyr
-          const player = new Plyr('#player', {
-            controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'settings'],
-            settings: ['speed'],
-            speed: {
-              options: [0.75, 0.9, 1, 1.1, 1.25, 1.5]
-            }
-          });
         } catch (error) {
+          console.error(`Error loading podcast ${feed.url}:`, error);
           onError(error);
         }
       }
 
-      const handleTabs = (episodeData) => {
-        const urlParams = new URLSearchParams(window.location.search);
-        const id = urlParams.get('id') || episodeData[0].guid;
-        $('[data-class="tabs-wrap"]').html(
-          episodeData.map((episode) => {
-            return `<a href="?id=${episode.guid}" class="${id === episode.guid ? 'active' : ''}">
-              <li class="btn text-ellipsis">${episode.title.split(':')[0]}</li>
-            </a>`;
-          }).join('')
-        );
-        $(`<style class="tab-styles">
-          [data-class="tabs-wrap"] a.active {
-            background-color: #f0f8ff;
+      function buildAccordionUI() {
+        const accordion = $('[data-class="podcasts-accordion"]');
+        accordion.empty();
+
+        // For each podcast series
+        RSS_FEEDS.forEach((feed, index) => {
+          if (!allPodcastData[feed.url]) return;
+
+          const podcastData = allPodcastData[feed.url];
+
+          // Create accordion item - no default open state
+          const accordionItem = $(`
+            <div class="podcast-series" data-podcast-id="${feed.url}">
+              <div class="podcast-series-header" data-toggle="collapse">
+                <strong>${podcastData.title.split(':')[0]}</strong>
+                <i class="fa fa-chevron-down float-right" style="font-size: 12px;"></i>
+              </div>
+              <ul class="podcast-episodes">
+                ${podcastData.episodes.map(episode => `
+                  <a href="?id=${episode.guid}">
+                    <li class="episode-item text-ellipsis" data-podcast-id="${feed.url}" data-episode-guid="${episode.guid}">
+                      ${episode.title.split(':')[0]}
+                    </li>
+                  </a>
+                `).join('')}
+              </ul>
+            </div>
+          `);
+
+          accordion.append(accordionItem);
+        });
+
+        // Add event listeners for accordion headers
+        $('.podcast-series-header').click(function() {
+          // Close all accordions first
+          $('.podcast-series-header').removeClass('active');
+          $('.podcast-episodes').removeClass('show');
+
+          // Toggle active class for clicked accordion
+          $(this).addClass('active');
+          $(this).next('.podcast-episodes').addClass('show');
+        });
+
+        // Add event listeners for episode items
+        $('.podcast-episodes a').click(function(e) {
+          e.preventDefault();
+
+          $('.episode-item').removeClass('active');
+          $(this).find('.episode-item').addClass('active');
+
+          const podcastId = $(this).find('.episode-item').data('podcast-id');
+          const episodeGuid = $(this).find('.episode-item').data('episode-guid');
+
+          // Update URL and load the episode
+          const url = new URL(window.location);
+          // url.searchParams.set('podcast', podcastId);
+          url.searchParams.set('id', episodeGuid);
+          window.history.pushState({}, '', url);
+
+          loadEpisode(podcastId, episodeGuid);
+        });
+
+        // Add styles for the accordion
+        $(`<style class="accordion-styles">
+          .podcast-series-header i.fa {
+            transition: transform 0.3s;
           }
-          [data-class="tabs-wrap"] a {
-            width: 100%;
-          }
-          [data-class="tabs-wrap"] a li {
-            text-align: left;
-          }
-          ul.typography li {
-            margin: 10px 0px;
-          }
-          a.obvious {
-            color: #007bff;
+          .podcast-series-header.active i.fa {
+            transform: rotate(180deg);
           }
           .text-ellipsis {
             display: -webkit-box;
@@ -232,16 +345,113 @@
             text-overflow: ellipsis;
             white-space: normal;
           }
-  </style>`).appendTo('head');
+          ul.typography li {
+            margin: 10px 0px;
+          }
+          a.obvious {
+            color: #007bff;
+          }
+        </style>`).appendTo('head');
       }
 
-      // Call the function on page load
-      addEventListener('DOMContentLoaded', () => fetchPodcastRSS());
+      function loadEpisodeFromURL() {
+        const urlParams = new URLSearchParams(window.location.search);
+        const episodeGuid = urlParams.get('id');
+
+        if (episodeGuid) {
+          // Find which podcast contains this episode
+          let foundPodcastId = null;
+
+          for (const podcastId in allPodcastData) {
+            const podcast = allPodcastData[podcastId];
+            const episodeExists = podcast.episodes.some(ep => ep.guid === episodeGuid);
+
+            if (episodeExists) {
+              foundPodcastId = podcastId;
+              break;
+            }
+          }
+
+          if (foundPodcastId) {
+            // Close all accordions first
+            $('.podcast-series-header').removeClass('active');
+            $('.podcast-episodes').removeClass('show');
+
+            // Activate only the correct accordion
+            $(`.podcast-series[data-podcast-id="${foundPodcastId}"] .podcast-series-header`).addClass('active');
+            $(`.podcast-series[data-podcast-id="${foundPodcastId}"] .podcast-episodes`).addClass('show');
+
+            // Activate the episode
+            $(`.episode-item[data-podcast-id="${foundPodcastId}"][data-episode-guid="${episodeGuid}"]`).addClass('active');
+
+            // Load the episode
+            loadEpisode(foundPodcastId, episodeGuid);
+          }
+        } else {
+          // No episode specified, load the first episode from the first podcast
+          const firstPodcastId = RSS_FEEDS[0].url;
+
+          if (allPodcastData[firstPodcastId]) {
+            const firstEpisodeGuid = allPodcastData[firstPodcastId].episodes[0]?.guid;
+
+            if (firstEpisodeGuid) {
+              // Close all accordions first
+              $('.podcast-series-header').removeClass('active');
+              $('.podcast-episodes').removeClass('show');
+
+              // Activate only the first accordion
+              $(`.podcast-series[data-podcast-id="${firstPodcastId}"] .podcast-series-header`).addClass('active');
+              $(`.podcast-series[data-podcast-id="${firstPodcastId}"] .podcast-episodes`).addClass('show');
+
+              // Activate the first episode
+              $(`.episode-item[data-podcast-id="${firstPodcastId}"][data-episode-guid="${firstEpisodeGuid}"]`).addClass('active');
+
+              // Load the first episode
+              loadEpisode(firstPodcastId, firstEpisodeGuid);
+            }
+          }
+        }
+      }
+
+      function loadEpisode(podcastId, episodeGuid) {
+        if (!allPodcastData[podcastId]) return;
+
+        const podcast = allPodcastData[podcastId];
+        const episode = podcast.episodes.find(ep => ep.guid === episodeGuid);
+
+        if (!episode) return;
+
+        // Update the UI
+        $('[data-class="title"]').text(episode.title);
+
+        const date = new Date(episode.pubDate);
+        const ds = date.toLocaleString(navigator?.language || 'en-US', {
+          weekday: 'long',
+          year: 'numeric',
+          month: 'long',
+          day: 'numeric',
+        });
+
+        $('[data-class="session"]').text(`${ds}`);
+        $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
+
+        // Load transcript
+        fetchAndRenderMarkdown(`${episode.transcriptPath}${episode.guid}.md`);
+
+        // Initialize Plyr
+        const player = new Plyr('#player', {
+          controls: ['play', 'progress', 'current-time', 'mute', 'volume', 'settings'],
+          settings: ['speed'],
+          speed: {
+            options: [0.75, 0.9, 1, 1.1, 1.25, 1.5]
+          }
+        });
+      }
 
       // Function to fetch and render the markdown file
       async function fetchAndRenderMarkdown(url) {
         try {
-          // Fetch the markdown file from the local server (assuming it's in the same directory)
+          // Fetch the markdown file from the local server
           const response = await fetch(url);
           if (!response.ok) {
             const fileName = url.split('/').pop()
@@ -261,7 +471,6 @@
           $('#content').text(`The transcript is not yet available.`);
         }
       }
-
     </script>
 
     <hr />
