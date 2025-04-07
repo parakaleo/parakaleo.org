@@ -192,11 +192,11 @@
       const RSS_FEEDS = [
         {
           url: 'https://anchor.fm/s/10358b980/podcast/rss',
-          transcriptPath: '/documents/bcc-pod/'
+          transcriptPath: '/documents/marriage-pod/'
         },
         {
           url: 'https://anchor.fm/s/fb8da4e0/podcast/rss',
-          transcriptPath: '/documents/bcc-pod/'
+          transcriptPath: '/documents/phil-pod/'
         },
       ];
 
@@ -301,13 +301,19 @@
 
         // Add event listeners for accordion headers
         $('.podcast-series-header').click(function() {
+          const isActive = $(this).hasClass('active');
+
           // Close all accordions first
           $('.podcast-series-header').removeClass('active');
           $('.podcast-episodes').removeClass('show');
 
-          // Toggle active class for clicked accordion
-          $(this).addClass('active');
-          $(this).next('.podcast-episodes').addClass('show');
+          // If it wasn't already active, open this one
+          if (!isActive) {
+            // Toggle active class for clicked accordion
+            $(this).addClass('active');
+            $(this).next('.podcast-episodes').addClass('show');
+          }
+          // If it was already active, it remains closed (all accordions closed)
         });
 
         // Add event listeners for episode items
