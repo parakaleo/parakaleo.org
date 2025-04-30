@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <meta name="description" content="" />
     <meta name="author" content="" />
-    <title>Parakaleo Christian Ministries</title>
+    <title>Parakaleo 50th Anniversary RSVP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -20,36 +20,95 @@
     <link href="css/clean-blog.min.css" rel="stylesheet" />
     <script src="js/dev.js"></script>
     <style>
-      .event-card {
+      .action-card {
         margin-bottom: 2rem;
-        padding: 1.5rem;
-        border-radius: 5px;
-        background-color: #f8f9fa;
+        padding: 2rem;
+        border-radius: 10px;
+        background-color: #fff;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
       }
-      .event-date {
+
+      .action-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+      }
+
+      .action-icon {
+        font-size: 2.5rem;
+        margin-bottom: 1rem;
+        color: #007bff;
+      }
+
+      .action-title {
         font-weight: bold;
-        color: #343a40;
-        margin-bottom: 0.5rem;
-      }
-      .event-location {
-        font-weight: bold;
-        margin-bottom: 0.5rem;
-      }
-      .event-description {
-        font-style: italic;
+        font-size: 1.5rem;
         margin-bottom: 1rem;
       }
-      .event-image {
+
+      .action-button {
+        background-color: #007bff;
+        color: white;
+        border: none;
+        padding: 10px 20px;
         border-radius: 5px;
-        margin-bottom: 1.5rem;
+        font-weight: bold;
+        transition: background-color 0.3s;
       }
-      .rsvp-section {
-        text-align: center;
-        margin: 2rem 0;
+
+      .action-button:hover {
+        background-color: #0056b3;
+        color: white;
+        text-decoration: none;
       }
-      .qr-code {
-        max-width: 150px;
-        margin: 1rem auto;
+
+      .event-details {
+        background-color: #f8f9fa;
+        border-radius: 10px;
+        padding: 1.5rem;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .event-date {
+        font-size: 0.9rem;
+        color: #6c757d;
+        margin-bottom: 0.5rem;
+      }
+
+      .embed-container {
+        height: 700px;
+        width: 100%;
+        max-width: 700px;
+        margin: 0 auto;
+      }
+
+      .contribution-method {
+        margin-bottom: 1rem;
+        padding: 1rem;
+        background-color: #f8f9fa;
+        border-radius: 5px;
+      }
+
+      .contribution-method i {
+        margin-right: 0.5rem;
+        color: #007bff;
+      }
+
+      .tab-content {
+        padding: 2rem;
+        background-color: #fff;
+        border-radius: 0 0 10px 10px;
+        box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+      }
+
+      .nav-tabs .nav-link {
+        font-weight: bold;
+      }
+
+      .nav-tabs .nav-link.active {
+        background-color: #fff;
+        border-bottom-color: #fff;
       }
     </style>
   </head>
@@ -103,7 +162,7 @@
             <div class="site-heading">
               <div style="background-color: rgba(0, 0, 0, 0.5); backdrop-filter: blur(4px); border-radius: 1rem; padding: 1rem;">
               <h1 style="font-size:45px">50<sup>th</sup> Anniversary Celebration</h1>
-              <span class="subheading">Come Celebrate 50 Years of the Parakaleo Ministry at Stanford and Beyond!</span>
+              <span class="subheading">Join Us in Celebrating 50 Years of Ministry Impact</span>
               </div>
             </div>
           </div>
@@ -115,50 +174,182 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-10 col-md-12 mx-auto">
-          <div class="event-card">
-            <div class="event-date">SATURDAY, MAY 3, 2-5 PM</div>
-            <div class="event-location">Gathering in our home for Parakaleo alumni</div>
-            <div class="event-description">
-              Encouraging one another by sharing about the Lord's lasting impact in personal life & ministry from equipping through Parakaleo (also see May 17 event on campus)
+
+          <!-- Action Cards -->
+          <div class="row mb-5">
+            <!-- RSVP Card -->
+            <div class="col-md-4 mb-4">
+              <div class="action-card text-center">
+                <i class="fa fa-calendar-check-o action-icon"></i>
+                <h3 class="action-title">RSVP Now</h3>
+                <p>Let us know you're coming to join the celebration!</p>
+                <a href="#rsvp-section" class="action-button">RSVP</a>
+              </div>
+            </div>
+
+            <!-- Contribute Card -->
+            <div class="col-md-4 mb-4">
+              <div class="action-card text-center">
+                <i class="fa fa-camera-retro action-icon"></i>
+                <h3 class="action-title">Share Memories</h3>
+                <p>Contribute videos, photos, or written memories</p>
+                <a href="#contribute-section" class="action-button">Contribute</a>
+              </div>
+            </div>
+
+            <!-- Donate Card -->
+            <div class="col-md-4 mb-4">
+              <div class="action-card text-center">
+                <i class="fa fa-gift action-icon"></i>
+                <h3 class="action-title">Support</h3>
+                <p>Help us continue the ministry for years to come</p>
+                <a href="#donate-section" class="action-button">Donate</a>
+              </div>
             </div>
           </div>
 
-          <div class="event-card">
-            <div class="event-date">SUNDAY, MAY 4, 10.15 AM–12.30 PM</div>
-            <div class="event-location">Peninsula Bible Church Palo Alto (Fellowship Hall)</div>
-            <div class="event-description">
-              Brunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+          <!-- Collapsible Event Details -->
+          <div class="event-details">
+            <h4 class="mb-3">Event Details <small>(click to expand)</small> <button class="btn btn-sm btn-outline-secondary float-right" type="button" data-toggle="collapse" data-target="#eventDetailsCollapse">Show/Hide</button></h4>
+
+            <div class="collapse" id="eventDetailsCollapse">
+              <div class="card-body">
+                <div class="mb-4">
+                  <div class="event-date">SATURDAY, MAY 3, 2-5 PM</div>
+                  <div class="font-weight-bold">Gathering in our home for Parakaleo alumni</div>
+                  <div class="font-italic">
+                    Encouraging one another by sharing about the Lord's lasting impact in personal life & ministry from equipping through Parakaleo (also see May 17 event on campus)
+                  </div>
+                </div>
+
+                <div class="mb-4">
+                  <div class="event-date">SUNDAY, MAY 4, 10.15 AM–12.30 PM</div>
+                  <div class="font-weight-bold">Peninsula Bible Church Palo Alto (Fellowship Hall)</div>
+                  <div class="font-italic">
+                    Brunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+                  </div>
+                </div>
+
+                <div class="mb-4">
+                  <div class="event-date">SATURDAY, MAY 17, 2–5 PM</div>
+                  <div class="font-weight-bold">Stanford Campus, Old Union Room 302 (3<sup>rd</sup> floor, access by elevator only)</div>
+                  <div class="font-italic">
+                    For Parakaleo alumni, current students, and friends:<br>
+                    Encouraging one another by sharing the Lord's lasting impact from study & equipping through Parakaleo
+                  </div>
+                </div>
+
+                <div class="mb-4">
+                  <div class="event-date">SUNDAY, MAY 18, 12–3 PM</div>
+                  <div class="font-weight-bold">Peninsula Bible Church Cupertino (Fellowship Hall)</div>
+                  <div class="font-italic">
+                    Lunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
 
-          <div class="event-card">
-            <div class="event-date">SATURDAY, MAY 17, 2–5 PM</div>
-            <div class="event-location">Stanford Campus, Old Union Room 302 (3<sup>rd</sup> floor, access by elevator only)</div>
-            <div class="event-description">
-              For Parakaleo alumni, current students, and friends:<br>
-              Encouraging one another by sharing the Lord's lasting impact from study & equipping through Parakaleo
-            </div>
-          </div>
+          <!-- Tabbed Content -->
+          <ul class="nav nav-tabs" id="actionTabs" role="tablist">
+            <li class="nav-item">
+              <a class="nav-link active" id="rsvp-tab" data-toggle="tab" href="#rsvp-section" role="tab">RSVP</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="contribute-tab" data-toggle="tab" href="#contribute-section" role="tab">Share Memories</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" id="donate-tab" data-toggle="tab" href="#donate-section" role="tab">Support</a>
+            </li>
+          </ul>
 
-          <div class="event-card">
-            <div class="event-date">SUNDAY, MAY 18, 12–3 PM</div>
-            <div class="event-location">Peninsula Bible Church Cupertino (Fellowship Hall)</div>
-            <div class="event-description">
-              Lunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+          <div class="tab-content" id="actionTabsContent">
+            <!-- RSVP Tab -->
+            <div class="tab-pane fade show active" id="rsvp-section" role="tabpanel">
+              <h3 class="text-center mb-4">RSVP for the 50th Anniversary Celebration</h3>
+              <div class="embed-container">
+                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfRuwQ7eNNbfzy0yL9y4RsyO-VXxPMbQOBTPzZ7xNUusgo-Tw/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+              </div>
             </div>
-          </div>
 
-          <div class="mt-5">
-            <h4>Contribute to our Celebration</h4>
-            <p>If you would like to contribute a video note or images to the slideshow/video for the 50th anniversary celebration (whether you can make it in person or not!), you are warmly invited to submit them!</p>
-            <ul>
-              <li>Upload to the <a href="#">Google Drive Folder</a></li>
-              <li>Or send your file(s) directly via email to: <a href="mailto:allan@parakaleo.org">allan@parakaleo.org</a></li>
-            </ul>
+            <!-- Contribute Tab -->
+            <div class="tab-pane fade" id="contribute-section" role="tabpanel">
+              <h3 class="text-center mb-4">Share Your Parakaleo Memories</h3>
+              <p class="mb-4">We would love to include your memories in our celebration! Share video messages, written notes, or photos that capture your Parakaleo experience and the impact it has had on your life.</p>
+
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="contribution-method">
+                    <h5><i class="fa fa-video-camera"></i> Video Messages</h5>
+                    <p>Record a 1-3 minute video sharing how Parakaleo has impacted your life and ministry.</p>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="contribution-method">
+                    <h5><i class="fa fa-camera"></i> Photos</h5>
+                    <p>Share photos from your time with Parakaleo or related ministry activities.</p>
+                  </div>
+                </div>
+
+                <div class="col-md-4">
+                  <div class="contribution-method">
+                    <h5><i class="fa fa-file-text-o"></i> Written Memories</h5>
+                    <p>Submit a written testimony or memory about your experience with Parakaleo.</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="text-center mt-4">
+                <h5 class="mb-3">How to Submit Your Contribution:</h5>
+                <div class="row justify-content-center">
+                  <div class="col-md-6">
+                    <div class="card mb-4">
+                      <div class="card-body">
+                        <h6><i class="fa fa-cloud-upload"></i> Upload to Google Drive</h6>
+                        <p>Use our shared folder to upload your files directly</p>
+                        <a href="#" class="btn btn-primary">Open Google Drive Folder</a>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-md-6">
+                    <div class="card">
+                      <div class="card-body">
+                        <h6><i class="fa fa-envelope"></i> Email Your Contribution</h6>
+                        <p>Send files directly to our anniversary team</p>
+                        <a href="mailto:allan@parakaleo.org" class="btn btn-primary">Email allan@parakaleo.org</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Donate Tab -->
+            <div class="tab-pane fade" id="donate-section" role="tabpanel">
+              <h3 class="text-center mb-4">Support the Next 50 Years of Ministry</h3>
+              <p class="text-center mb-4">Your generous gift will help continue the work of Parakaleo Christian Ministries for generations to come.</p>
+
+              <div class="row justify-content-center">
+                <div class="col-md-8">
+                  <div class="card">
+                    <div class="card-body text-center">
+                      <h5 class="mb-3">Make a Special Anniversary Gift</h5>
+                      <p>Consider making a special gift in honor of 50 years of ministry impact.</p>
+                      <div class="mt-4">
+                        <button class="btn btn-primary btn-lg px-5">Donate Now</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
     </div>
+
     <hr />
 
     <!-- Footer -->
