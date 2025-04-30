@@ -19,6 +19,39 @@
     <link href="css/index.css" rel="stylesheet" />
     <link href="css/clean-blog.min.css" rel="stylesheet" />
     <script src="js/dev.js"></script>
+    <style>
+      .event-card {
+        margin-bottom: 2rem;
+        padding: 1.5rem;
+        border-radius: 5px;
+        background-color: #f8f9fa;
+      }
+      .event-date {
+        font-weight: bold;
+        color: #343a40;
+        margin-bottom: 0.5rem;
+      }
+      .event-location {
+        font-weight: bold;
+        margin-bottom: 0.5rem;
+      }
+      .event-description {
+        font-style: italic;
+        margin-bottom: 1rem;
+      }
+      .event-image {
+        border-radius: 5px;
+        margin-bottom: 1.5rem;
+      }
+      .rsvp-section {
+        text-align: center;
+        margin: 2rem 0;
+      }
+      .qr-code {
+        max-width: 150px;
+        margin: 1rem auto;
+      }
+    </style>
   </head>
   <body>
 
@@ -62,17 +95,16 @@
       </div>
     </nav>
 
-    <!-- Page Header
-    <header class="masthead" style="background-image: url('img/wallpapers/footprints-in-the-sand-wallpaper.jpg')">
-    <header class="masthead" style="background-image: url('img/wallpapers/758379-1440x900-[DesktopNexus.com].jpg')">
-    -->
-    <header class="masthead landing-image" style="background-image: url('img/wallpapers/ws_Footsteps_on_beach_1280x1024.jpg');">
+    <!-- Page Header -->
+    <header class="masthead landing-image" style="background-image: url('https://lbre-pmr.stanford.edu/sites/g/files/sbiybj28276/files/styles/breakpoint_2xl_2x/public/media/image/campus_quad_and_tower3_0.jpg.webp?itok=RfDgVEcK'); background-size: cover !important; background-position: center !important;">
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-md-10 mx-auto">
             <div class="site-heading">
-              <h1 style="font-size:45px">50th Anniversary Celebration</h1>
-              <span class="subheading">Scripture in Depth Applied to Life's Practical Issues</span>
+              <div style="background-color: rgba(0, 0, 0, 0.5); backdrop-filter: blur(4px); border-radius: 1rem; padding: 1rem;">
+              <h1 style="font-size:45px">50<sup>th</sup> Anniversary Celebration</h1>
+              <span class="subheading">Come Celebrate 50 Years of the Parakaleo Ministry at Stanford and Beyond!</span>
+              </div>
             </div>
           </div>
         </div>
@@ -81,134 +113,49 @@
 
     <!-- Main Content -->
     <div class="container">
-      <style>
-        .ministries img {
-          cursor: pointer !important;
-        }
-      </style>
-      <div class="row about">
-        <div class="col-md-7 order-md-1">
-          <h2>Welcome to Parakaleo! </h2>
-          <p class="lead">Since 1975, Parakaleo's ministry has focused on counseling and training Biblical counselors.</p>
-          <p class="lead"><span style="font-size: 1.25rem;">Its primary setting is the Stanford University community, where staff members minister to undergraduates, graduate students, faculty and staff.</span></p>
-          <p class="lead">For more details about the ministry, please visit our <a href="about.html">About Page</a>!</p>
-        </div>
-        <div class="col-md-5 order-md-2">
-          <img class="w-100" src="img/steve-erica.png" alt="Picture of Staff" />
-        </div>
-      </div>
-      <hr class="my-5" />
-      <div class="row resources">
-        <div class="col-md-7 order-md-2">
-          <h2>Resources &amp; Publications</h2>
-          <p class="lead">Please visit our <a href="resources.html">Resources Page</a> to find:</p>
-          <ul>
-            <li>Course Notes</li>
-            <li>Recordings</li>
-            <li>The Romans 8 Book</li>
-          </ul>
-          More notes will be released as they are updated and edited. Feel free to re-visit this page periodically for updates and new materials!
-        </div>
-        <div class="col-md-5 order-md-1">
-          <img src="img/ministries/bible.scaled.jpg" alt="Bible" />
-        </div>
-      </div>
-      <hr class="my-5" />
-      <div class="row students">
-        <div class="col-md-7 order-md-1">
-          <h2>Supporting the Ministry</h2>
-          <p class="lead">We greatly appreciate your support, whether through prayer or financially.</p>
-          <p class="lead">To see more ways you can pray for the ministry, please visit our <a href="news.html">Ministry Updates page</a>. To donate to the ministry, please visit our <a href="donate.html">Donate page</a>.</p>
-        </div>
-        <div class="col-md-5 order-md-2">
-          <img class="img-fluid" src="img/ministries/prayer.jpg" alt="Praying hands" />
-        </div>
-      </div>
-      <hr class="my-5" />
-      <div hidden="">
-        <div class="col-md-4 col-sm-12">
-          <a href="course.html">
-
-            <!-- whee!
-            $ convert footprints.jpg -gravity Center -crop 450x281+0+0 +repage footprints.scaled.jpg
-            -->
-            <img class="img-fluid" src="img/ministries/bible.scaled.jpg" alt="" />
-            <h4 style="margin:10px 0px;">Biblical Counseling Course</h4>
-          </a>
-
-          <!-- <div class="text-muted">Weekly in-depth Bible study&mdash;join us as we feed on the Word!</div> -->
-          <div class="text-muted">Weekly in-depth feeding on the Word!</div>
-
-          <!-- <a class="small flyer" href="#">Download Flyer (.docx)</a> -->
-        </div>
-        <div class="col-md-4 col-sm-12">
-          <a href="prayer.html">
-            <img class="img-fluid" src="img/ministries/prayer.jpg" alt="" />
-            <h4 style="margin:10px 0px;">Drop-in Prayer</h4>
-          </a>
-
-          <!-- <div class="text-muted">Daily prayer for Stanford's campus and for one another</div> -->
-          <div class="text-muted">Weekly times of prayer for the campus and for one another</div>
-
-          <!-- <a class="small flyer" href="#">Download Flyer (.docx)</a> -->
-        </div>
-        <div class="col-md-4 col-sm-12">
-          <a href="seminars.html">
-            <img class="img-fluid" src="img/ministries/footprints.scaled.jpg" alt="" />
-            <h4 style="margin:10px 0px;">Biblical Issues Seminars</h4>
-          </a>
-
-          <!-- <div class="text-muted">Periodic Biblical seminars on life's difficult issues</div> -->
-          <div class="text-muted">Biblical wisdom for life's difficult issues</div>
-        </div>
-      </div>
       <div class="row">
-        <div class="bs-callout bs-callout-primary" hidden="">
-          <h5>Biblical Counseling Course (Spring 2020)</h5>
-          &gt;
-          We are eager to dig into the riches of 2 Corinthians 1-7 this fall, as
-          we see together:
-          <p></p>
-          How the Lord uses the challenges of life, both circumstantial and
-          relational
-          <ul>
-            <li>to greatly deepen our walks with Him</li>
-            <li>to grow in His character in practice</li>
-            <li>and to be equipped to help a lifetime of others.</li>
-          </ul>
-          <p>
-            We will be learning from the Lord through this description from Paul of the
-            fundamental principles of his ministry including how to seek reconciliation in
-            relations strained by misunderstanding.
-          </p>
-          <p>
-            Join us and spread the word by inviting others who may benefit as well as we
-            learn together through a combination of presentation and interactive
-            participation, also developing helpful methods and techniques for feeding
-            oneself effectively and fruitfully on God's word.
-          </p>
-          <strong>
-              The course is held on
-              <span class="course-weekday">Monday</span>s
-              from
-              <span class="course-time">7-9pm</span>
-              at <span class="course-location">Old Union 3rd floor Seminar Room 301 <a style="color:#0085a1" target="_blank" href="https://goo.gl/maps/oY2YduWT5R187d7K7">(map)</a></span>
-              <br />
-              and is available to all Stanford students, faculty, and staff
-              <br />
-              for personal benefit and for equipping to help others.
-              <br />
-              <br />
-              <a style="color:#0085a1" target="_blank" href="documents/Parakaleo Offerings Fall'19.docx">Download word doc</a> for more details on
-              Fall 2019 ministry offerings, or
-              <br />
-              find more participation logistics <a style="color:#0085a1" target="_blank" href="course.html">here</a>.
-            </strong>
-        </div>
-        <div class="col-lg-12 col-md-12 mx-auto">
-          <br />
-          <br />
-          <img src="img/parakaleo-banner-small.svg" style="width: 85%; margin: auto; display: block;" />
+        <div class="col-lg-10 col-md-12 mx-auto">
+          <div class="event-card">
+            <div class="event-date">SATURDAY, MAY 3, 2-5 PM</div>
+            <div class="event-location">Gathering in our home for Parakaleo alumni</div>
+            <div class="event-description">
+              Encouraging one another by sharing about the Lord's lasting impact in personal life & ministry from equipping through Parakaleo (also see May 17 event on campus)
+            </div>
+          </div>
+
+          <div class="event-card">
+            <div class="event-date">SUNDAY, MAY 4, 10.15 AM–12.30 PM</div>
+            <div class="event-location">Peninsula Bible Church Palo Alto (Fellowship Hall)</div>
+            <div class="event-description">
+              Brunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+            </div>
+          </div>
+
+          <div class="event-card">
+            <div class="event-date">SATURDAY, MAY 17, 2–5 PM</div>
+            <div class="event-location">Stanford Campus, Old Union Room 302 (3<sup>rd</sup> floor, access by elevator only)</div>
+            <div class="event-description">
+              For Parakaleo alumni, current students, and friends:<br>
+              Encouraging one another by sharing the Lord's lasting impact from study & equipping through Parakaleo
+            </div>
+          </div>
+
+          <div class="event-card">
+            <div class="event-date">SUNDAY, MAY 18, 12–3 PM</div>
+            <div class="event-location">Peninsula Bible Church Cupertino (Fellowship Hall)</div>
+            <div class="event-description">
+              Lunch celebration and ministry report followed by Biblical Counseling Class with Scripture highlights
+            </div>
+          </div>
+
+          <div class="mt-5">
+            <h4>Contribute to our Celebration</h4>
+            <p>If you would like to contribute a video note or images to the slideshow/video for the 50th anniversary celebration (whether you can make it in person or not!), you are warmly invited to submit them!</p>
+            <ul>
+              <li>Upload to the <a href="#">Google Drive Folder</a></li>
+              <li>Or send your file(s) directly via email to: <a href="mailto:allan@parakaleo.org">allan@parakaleo.org</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
