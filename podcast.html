@@ -196,11 +196,13 @@
         },
         {
           url: 'https://anchor.fm/s/10358b980/podcast/rss',
-          transcriptPath: '/documents/marriage-pod/'
+          transcriptPath: '/documents/marriage-pod/',
+          hidden: true,
         },
         {
           url: 'https://anchor.fm/s/fb8da4e0/podcast/rss',
-          transcriptPath: '/documents/phil-pod/'
+          transcriptPath: '/documents/phil-pod/',
+          hidden: true,
         },
       ];
 
@@ -260,7 +262,8 @@
           // Store episodes data
           allPodcastData[feed.url] = {
             title: channelTitle,
-            episodes: episodeData
+            episodes: episodeData,
+            hidden: feed.hidden,
           };
 
           console.log(`Loaded podcast: ${channelTitle} with ${episodeData.length} episodes`);
@@ -283,7 +286,7 @@
 
           // Create accordion item - no default open state
           const accordionItem = $(`
-            <div class="podcast-series" data-podcast-id="${feed.url}">
+            <div class="podcast-series ${feed.hidden ? 'd-none' : ''}" data-podcast-id="${feed.url}">
               <div class="podcast-series-header" data-toggle="collapse">
                 <strong>${podcastData.title.split(':')[0]}</strong>
                 <i class="fa fa-chevron-down float-right" style="font-size: 12px;"></i>
