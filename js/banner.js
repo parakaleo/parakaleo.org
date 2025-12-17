@@ -14,8 +14,9 @@
 
   // Banner configuration - easily update the message here
   const BANNER_CONFIG = {
-    message: "We're well into our 51st year of ministry and eager to continue into 2026!",
-    alertType: 'alert-info' // Bootstrap 4 alert types: alert-info, alert-success, alert-warning, alert-danger
+    message: "Celebrating 50 years of the Lord's faithfulness at Stanford and beyond, and eager to continue growing and serving in our 51st year (2026)!",
+    mobileMessage: "Celebrating 50 years of ministry and eager to continue serving in our 51st year (2026)!",
+    alertType: 'alert-danger' // Using alert-danger as base for royal purple tones, with custom styling
   };
 
   function shouldShowBanner() {
@@ -39,19 +40,22 @@
   }
 
   function createBannerHTML() {
-    // Mobile-friendly shorter message
-    const mobileMessage = "We're well into our 51st year of ministry and eager to continue into 2026!";
+    const mobileMessage = BANNER_CONFIG.mobileMessage;
     const desktopMessage = BANNER_CONFIG.message;
 
     return `
-      <div id="ministry-year-banner" class="alert ${BANNER_CONFIG.alertType} alert-dismissible show fixed-bottom mb-0" role="alert" style="border-radius: 0; z-index: 1030; left: 0; right: 0; width: 100vw; max-width: 100vw; box-sizing: border-box; padding: 0.75rem 1rem; display: block !important; opacity: 1 !important; margin: 0;">
-        <div style="display: flex; align-items: center; max-width: 100%; box-sizing: border-box;">
-          <div style="flex: 1; min-width: 0; padding-right: 0.5rem;">
-            <span class="d-none d-sm-inline" style="font-size: 0.95rem; word-wrap: break-word;"><strong>${desktopMessage}</strong></span>
-            <span class="d-inline d-sm-none" style="font-size: 0.875rem; word-wrap: break-word;"><strong>${mobileMessage}</strong></span>
+      <div id="ministry-year-banner" class="alert ${BANNER_CONFIG.alertType} alert-dismissible show fixed-bottom mb-0" role="alert">
+        <div class="d-flex align-items-center banner-flex-container">
+          <div class="banner-text-container">
+            <span class="d-none d-sm-inline banner-desktop-message">
+              ${desktopMessage}
+            </span>
+            <span class="d-inline d-sm-none banner-mobile-message">
+              ${mobileMessage}
+            </span>
           </div>
-          <div style="flex-shrink: 0;">
-            <button type="button" class="close" data-dismiss="alert" aria-label="Close" style="padding: 0.5rem; margin: 0; font-size: 1.5rem; line-height: 1; min-width: 44px; min-height: 44px; border: none; background: transparent;">
+          <div class="banner-close-container">
+            <button type="button" class="close" data-dismiss="alert" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
@@ -74,19 +78,7 @@
     const $banner = $(createBannerHTML());
     $('body').append($banner);
 
-    // Ensure banner is visible immediately (especially on mobile)
-    $banner.css({
-      'display': 'block',
-      'position': 'fixed',
-      'bottom': '0',
-      'left': '0',
-      'right': '0',
-      'width': '100vw',
-      'max-width': '100vw',
-      'box-sizing': 'border-box',
-      'margin': '0',
-      'overflow-x': 'hidden'
-    });
+    // Banner positioning is handled by CSS
 
     // Ensure body doesn't have horizontal overflow
     $('body').css('overflow-x', 'hidden');
