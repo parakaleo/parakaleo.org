@@ -1,76 +1,73 @@
 /* Banner CSS Variables */
 :root {
-  --banner-bg-start: #f5f0ff;
-  --banner-bg-end: #e8e0ff;
-  --banner-border-color: #7b2cbf;
-  --banner-text-color: #4a148c;
-  --banner-shadow: rgba(123, 44, 191, 0.15);
+  --banner-bg-start: #fff4e6;
+  --banner-bg-end: #ffe8cc;
+  --banner-border-color: #ff9500;
+  --banner-text-color: #8b4513;
+  --banner-shadow: rgba(255, 149, 0, 0.2);
   --banner-close-opacity: 0.7;
   --banner-close-opacity-hover: 1;
   --banner-close-transition: opacity 0.2s;
 }
 
+/* Ensure body is positioning context for absolutely positioned banner */
+body {
+  position: relative;
+}
+
 /* Banner Container */
-#ministry-year-banner {
+#alert-banner {
   background: linear-gradient(135deg, var(--banner-bg-start) 0%, var(--banner-bg-end) 100%);
-  border-top: 2px solid var(--banner-border-color);
-  border-bottom: none;
-  border-left: none;
-  border-right: none;
-  border-radius: 0;
+  border: 2px solid var(--banner-border-color);
   color: var(--banner-text-color);
-  box-shadow: 0 -2px 10px var(--banner-shadow);
-  z-index: 1030;
+  box-shadow: 0 2px 10px var(--banner-shadow);
+  z-index: 1029;
   left: 0;
   right: 0;
-  width: 100vw;
-  max-width: 100vw;
-  box-sizing: border-box;
-  padding: 1rem 1.25rem;
-  display: block !important;
+  max-width: max-content;
+  margin: 0 auto;
   opacity: 1 !important;
-  margin: 0;
-  position: fixed;
-  bottom: 0;
+  position: absolute;
+  top: 0;
   overflow-x: hidden;
 }
 
 /* Banner Flex Container */
-#ministry-year-banner .banner-flex-container {
+#alert-banner .banner-flex-container {
   max-width: 100%;
   box-sizing: border-box;
 }
 
 /* Banner Text Container */
-#ministry-year-banner .banner-text-container {
+#alert-banner .banner-text-container {
   flex: 1;
   min-width: 0;
-  padding-right: 0.75rem;
+  padding-right: 0.5rem;
 }
 
 /* Banner Desktop Message */
-#ministry-year-banner .banner-desktop-message {
+#alert-banner .banner-desktop-message {
   font-size: 1rem;
   word-wrap: break-word;
-  line-height: 1.5;
+  line-height: 1.25;
   color: var(--banner-text-color);
 }
 
 /* Banner Mobile Message */
-#ministry-year-banner .banner-mobile-message {
+#alert-banner .banner-mobile-message {
   font-size: 0.9rem;
   word-wrap: break-word;
-  line-height: 1.5;
+  line-height: 1.25;
   color: var(--banner-text-color);
 }
 
 /* Banner Close Button Container */
-#ministry-year-banner .banner-close-container {
+#alert-banner .banner-close-container {
   flex-shrink: 0;
 }
 
 /* Banner Close Button */
-#ministry-year-banner .close {
+#alert-banner .close {
   padding: 0.5rem;
   margin: 0;
   font-size: 1.5rem;
@@ -84,7 +81,7 @@
   transition: var(--banner-close-transition);
 }
 
-#ministry-year-banner .close:hover {
+#alert-banner .close:hover {
   opacity: var(--banner-close-opacity-hover);
 }
 

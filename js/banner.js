@@ -14,8 +14,8 @@
 
   // Banner configuration - easily update the message here
   const BANNER_CONFIG = {
-    message: "Celebrating 50 years of the Lord's faithfulness at Stanford and beyond, and eager to continue growing and serving in our 51st year (2026)!",
-    mobileMessage: "Celebrating 50 years of ministry and eager to continue serving in our 51st year (2026)!",
+    message: "Celebrating 50 years (so far!) of the Lord's faithfulness at Stanford and beyond, and eagerly continuing to grow and serve in our 51st year (2025-2026)!",
+    mobileMessage: "Celebrating 50 years of ministry and eagerly continuing to grow and serve in our 51st year (2025-2026)!",
     alertType: 'alert-danger' // Using alert-danger as base for royal purple tones, with custom styling
   };
 
@@ -44,7 +44,7 @@
     const desktopMessage = BANNER_CONFIG.message;
 
     return `
-      <div id="ministry-year-banner" class="alert ${BANNER_CONFIG.alertType} alert-dismissible show fixed-bottom mb-0" role="alert">
+      <div id="alert-banner" class="alert ${BANNER_CONFIG.alertType} alert-dismissible show mt-0" role="alert">
         <div class="d-flex align-items-center banner-flex-container">
           <div class="banner-text-container">
             <span class="d-none d-sm-inline banner-desktop-message">
@@ -64,13 +64,29 @@
     `;
   }
 
+  function adjustNavbarForBanner() {
+    const $banner = $('#alert-banner');
+    const $navbar = $('#mainNav');
+
+    if ($banner.length > 0 && $navbar.length > 0) {
+      // Calculate navbar height (including margins)
+      const navbarHeight = $navbar.outerHeight(true);
+
+      // Position banner below the navbar
+      $banner.css('top', navbarHeight + 'px');
+
+      $('body').addClass('banner-present');
+    }
+  }
+
   function initBanner() {
     if (!shouldShowBanner()) {
       return;
     }
 
     // Check if banner already exists (in case script is loaded multiple times)
-    if ($('#ministry-year-banner').length > 0) {
+    if ($('#alert-banner').length > 0) {
+      adjustNavbarForBanner();
       return;
     }
 
@@ -78,7 +94,11 @@
     const $banner = $(createBannerHTML());
     $('body').append($banner);
 
-    // Banner positioning is handled by CSS
+    // Adjust banner position after both navbar and banner are rendered
+    // Use a small timeout to ensure navbar is fully rendered
+    setTimeout(function() {
+      adjustNavbarForBanner();
+    }, 10);
 
     // Ensure body doesn't have horizontal overflow
     $('body').css('overflow-x', 'hidden');
@@ -86,6 +106,8 @@
     // Handle Bootstrap alert close event (Bootstrap 4)
     $banner.on('closed.bs.alert', function() {
       dismissBanner();
+      $('body').removeClass('banner-present');
+      $banner.css('top', '');
     });
 
     // Also add direct click handler as fallback
@@ -95,11 +117,17 @@
       dismissBanner();
       $banner.fadeOut(300, function() {
         $(this).remove();
+        $('body').removeClass('banner-present');
       });
     });
 
     // Force a reflow to ensure visibility on mobile
     $banner[0].offsetHeight;
+
+    // Re-adjust on window resize
+    $(window).on('resize', function() {
+      adjustNavbarForBanner();
+    });
   }
 
   // Initialize when DOM is ready (using jQuery since it's already loaded)
