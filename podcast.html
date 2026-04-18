@@ -166,7 +166,9 @@
       }
 
       .podcast-episodes.show {
-        max-height: 1000px;
+        /* Tall enough for full season lists; scroll if a feed grows larger */
+        max-height: min(10000px, 85vh);
+        overflow-y: auto;
       }
 
       .episode-item {
