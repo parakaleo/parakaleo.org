@@ -188,6 +188,13 @@
       .episode-item.active {
         background-color: #f0f8ff;
       }
+
+      @media (max-width: 768px) {
+        .plyr__controls .plyr__control[data-plyr="rewind"],
+        .plyr__controls .plyr__control[data-plyr="fast-forward"] {
+          display: none;
+        }
+      }
     </style>
     <script>
       // Array of RSS feeds - add your feeds here
@@ -213,6 +220,7 @@
       const PLYR_SEEK_TIME = 10;
       const PLAYER_SPEED_OPTIONS = [0.75, 0.9, 1, 1.1, 1.25, 1.5];
       let player = null;
+      const mediaSessionSupported = typeof navigator !== 'undefined' && 'mediaSession' in navigator;
 
       const onError = (error) => {
         $('[data-class="error-wrap"]').removeClass('d-none');
@@ -294,6 +302,72 @@
 
         const nextIndex = Math.max(0, Math.min(PLAYER_SPEED_OPTIONS.length - 1, currentIndex + step));
         player.speed = PLAYER_SPEED_OPTIONS[nextIndex];
+      }
+
+      function setMediaSessionAction(name, handler) {
+        if (!mediaSessionSupported) return;
+        try {
+          navigator.mediaSession.setActionHandler(name, handler);
+        } catch (_) {
+          // Some iOS/Safari versions partially implement MediaSession APIs.
+        }
+      }
+
+      function setupMediaSessionForEpisode(episode) {
+        if (!mediaSessionSupported || !player) return;
+
+        if ('MediaMetadata' in window) {
+          navigator.mediaSession.metadata = new MediaMetadata({
+            title: episode.title || 'Podcast Episode',
+            artist: episode.podcastTitle || 'Parakaleo Christian Ministries',
+            album: episode.podcastTitle || 'Podcast',
+          });
+        }
+
+        setMediaSessionAction('play', () => player.play());
+        setMediaSessionAction('pause', () => player.pause());
+        setMediaSessionAction('seekbackward', (details = {}) => {
+          const seekOffset = Number.isFinite(details.seekOffset) ? details.seekOffset : PLYR_SEEK_TIME;
+          player.currentTime = Math.max(0, player.currentTime - seekOffset);
+        });
+        setMediaSessionAction('seekforward', (details = {}) => {
+          const seekOffset = Number.isFinite(details.seekOffset) ? details.seekOffset : PLYR_SEEK_TIME;
+          const duration = Number.isFinite(player.duration) ? player.duration : Infinity;
+          player.currentTime = Math.min(duration, player.currentTime + seekOffset);
+        });
+        setMediaSessionAction('seekto', (details = {}) => {
+          if (!Number.isFinite(details.seekTime)) return;
+          const duration = Number.isFinite(player.duration) ? player.duration : Infinity;
+          player.currentTime = Math.min(duration, Math.max(0, details.seekTime));
+        });
+        setMediaSessionAction('stop', () => player.pause());
+      }
+
+      function updateMediaSessionPositionState() {
+        if (!mediaSessionSupported || !player || typeof navigator.mediaSession.setPositionState !== 'function') return;
+        if (!Number.isFinite(player.duration) || player.duration <= 0) return;
+        try {
+          navigator.mediaSession.setPositionState({
+            duration: player.duration,
+            playbackRate: player.speed || 1,
+            position: Math.min(player.currentTime || 0, player.duration),
+          });
+        } catch (_) {
+          // Ignore unsupported position updates on partial MediaSession implementations.
+        }
+      }
+
+      function updateMediaSessionPlaybackState() {
+        if (!mediaSessionSupported) return;
+        try {
+          if (player && !player.paused) {
+            navigator.mediaSession.playbackState = 'playing';
+          } else {
+            navigator.mediaSession.playbackState = 'paused';
+          }
+        } catch (_) {
+          // Ignore unsupported playback state updates.
+        }
       }
 
       async function fetchPodcastRSS(feed) {
@@ -527,6 +601,15 @@
             options: PLAYER_SPEED_OPTIONS
           }
         });
+
+        setupMediaSessionForEpisode(episode);
+        player.on('timeupdate', updateMediaSessionPositionState);
+        player.on('seeked', updateMediaSessionPositionState);
+        player.on('ratechange', updateMediaSessionPositionState);
+        player.on('loadedmetadata', updateMediaSessionPositionState);
+        player.on('playing', updateMediaSessionPlaybackState);
+        player.on('pause', updateMediaSessionPlaybackState);
+        player.on('ended', updateMediaSessionPlaybackState);
       }
 
       // Function to fetch and render the markdown file
