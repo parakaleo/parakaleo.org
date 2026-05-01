@@ -583,14 +583,23 @@
         });
 
         $('[data-class="session"]').text(`${ds}`);
-        $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
 
         // Load transcript
         fetchAndRenderMarkdown(`${episode.transcriptPath}${episode.guid}.md`);
 
-        // Initialize Plyr
+        // Plyr destroy() restores its original DOM snapshot, which would undo any
+        // src change made before destroy. Tear down first, then set the new source.
         if (player) {
           player.destroy();
+          player = null;
+        }
+
+        const media = document.getElementById('player');
+        if (media) {
+          media.src = episode.audioUrl;
+          media.load();
+        } else {
+          $('[data-class="audiosrc"]').attr('src', episode.audioUrl);
         }
 
         player = new Plyr('#player', {
