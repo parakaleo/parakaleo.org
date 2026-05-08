@@ -189,12 +189,15 @@
         background-color: #f0f8ff;
       }
 
+      /*
       @media (max-width: 768px) {
         .plyr__controls .plyr__control[data-plyr="rewind"],
         .plyr__controls .plyr__control[data-plyr="fast-forward"] {
           display: none;
         }
       }
+      */
+
     </style>
     <script>
       // Array of RSS feeds - add your feeds here
@@ -251,6 +254,8 @@
         document.addEventListener('keydown', (event) => {
           if (!player) return;
           const lowerKey = event.key.toLowerCase();
+          const isMediaRewindKey = ['MediaTrackPrevious', 'AudioRewind'].includes(event.key) || ['MediaTrackPrevious', 'AudioRewind'].includes(event.code);
+          const isMediaForwardKey = ['MediaTrackNext', 'AudioForward'].includes(event.key) || ['MediaTrackNext', 'AudioForward'].includes(event.code);
           if (event.altKey || event.ctrlKey || event.metaKey) return;
 
           const target = event.target;
@@ -262,11 +267,11 @@
             return;
           }
 
-          if (event.key === 'ArrowLeft' || lowerKey === 'j') {
+          if (event.key === 'ArrowLeft' || lowerKey === 'j' || isMediaRewindKey) {
             event.preventDefault();
             event.stopPropagation();
             player.currentTime = Math.max(0, player.currentTime - PLYR_SEEK_TIME);
-          } else if (event.key === 'ArrowRight' || lowerKey === 'l') {
+          } else if (event.key === 'ArrowRight' || lowerKey === 'l' || isMediaForwardKey) {
             event.preventDefault();
             event.stopPropagation();
             const duration = Number.isFinite(player.duration) ? player.duration : Infinity;
