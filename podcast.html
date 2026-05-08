@@ -189,6 +189,13 @@
         background-color: #f0f8ff;
       }
 
+      @media (max-width: 768px) {
+        .plyr__controls .plyr__control[data-plyr="mute"],
+        .plyr__controls .plyr__volume {
+          display: none;
+        }
+      }
+
       /*
       @media (max-width: 768px) {
         .plyr__controls .plyr__control[data-plyr="rewind"],
