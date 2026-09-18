@@ -1,0 +1,527 @@
+> Lord Jesus, thank you that you are the Lord, King of Kings and Lord of Lords of the whole earth.
+> And we thank you that
+> you bring your people together from all over.
+> And thank you for divine appointments and conversations that you've been preparing for a long time.
+> And Lord, we thank you for each one of these dear ones and ask that
+> They as well as we will be mightily encouraged through this passage about believers who walk strongly with you in a hostile environment and as they walked into the biggest challenge of their lives.
+> Lord, each of us have challenges.
+> Little ones and big ones.
+> And we ask, Lord, to have our ears open to hear you and how to prepare for these times and how to walk through them with you in a way in which you are seen and proclaimed.
+> And we thank you that no matter what people do in this broken world, you have the last word.
+> You are king.
+> You are the redeemer.
+> And you are Emmanuel, God with us, no matter what.
+> Our living God.
+> So teach us, Lord, every one of us, and encourage us.
+> In your name, amen.
+
+Well, as you remember from several weeks ago, we've been in Daniel and looking over the shoulder of four young men who arrived after war, siege, and then captivity, losing everything that they knew.
+
+The ultimate refugee, but not free in any sense of the word, and arriving in Babylon somewhere between the ages of 12 and 16.
+
+And we've been watching these young men as they have chosen to make wise choices, to build into their lives spiritual disciplines that help them to grow in the Lord and walk with Him and serve mightily through their lives. And He is still teaching people through them, including all of us, centuries of people.
+
+And the students have loved it. We said, “They're just the quintessential Stanford student,” because they were top students and made the most of serving the Lord. One of their spiritual disciplines was trusting the Lord to study hard and then be able to use their gifting to bless the society that they were in, but to do so serving the Lord.
+
+And as we noted the last couple of weeks, this was the most powerful nation, at least in the European Mediterranean world. Don't know what was going on in China at that point. And the most wealthy. Don't know what's going on in China now.
+
+And the question was, is, would they just drop what they had grown up with and known of the Lord and just try to fit in and be a success in that society and do all that it took to be that, as many people do in our society now? And we get to see—they did not make that choice, that they trusted the Lord to be top students. And then the Lord jettisoned them into positions of influence and administration where He could really show, just as He has seated His people, each of us in particular places, and seeds believers from the seat of government on down to what we would consider the lowest and most humble points. And His people are seated everywhere.
+
+And I've had a divine appointment with somebody just this afternoon who's a delightful believer who serves well in a capacity at Stanford. And we have prayed together and gotten to encourage each other as we serve and see each other once every couple of years on the walking path. A delightful Black lady who just loves Jesus.
+
+Let's get into the text. And it's a fun text. It moves. But there are a lot of really important things for all of us to learn about how do we prepare for and serve the Lord in scary situations. Here, it's standing true to Him, standing out like a sore thumb. But a lot of the principles apply as well as we have scary things coming up that we know are coming, whether it's a huge operation, whether it's a presentation at work or at a conference that you know your future's hanging on this. And how do you prepare? And we'll be looking at that among other things.
+
+Somebody like to read the first six verses of Daniel 3?
+
+**“Nebuchadnezzar the king made an image of gold, the height of which was 60 cubits and its width 6 cubits. He set it up on the plain of Dura in the province of Babylon.”**
+
+**Then Nebuchadnezzar the king sent word to assemble the satraps, the prefects and the governors, the counselors, the treasurers, the judges and the magistrates, and all the rulers of the provinces to come to the dedication of the image that Nebuchadnezzar the king had set up.**
+
+**Then the satraps, the prefects, the governors, the counselors, the treasurers, the judges, the magistrates, and all the rulers of the provinces were assembled for the dedication of the image that Nebuchadnezzar the king had set up. They stood before the image that Nebuchadnezzar had set up.**
+
+**Then the herald loudly proclaimed, “To you the command is given, O peoples, nations, and men of every language, that at the moment you hear the sound of the horn, flute, lyre, trigon, psaltery, bagpipe, and all kinds of music, you are to fall down and worship the golden image that Nebuchadnezzar the king has set up. But whoever does not fall down in worship shall immediately be cast into the midst of a furnace of blazing fire.”**
+
+What's Nebby up to? Why the golden image, and why would he even do this? What do we know from what we've looked at in Daniel so far that may have anything to do with this? Where did he get the idea?
+
+From his dream, there was the statue, and he was the golden head.
+
+He made a little statue of gold. I think he kind of liked it that he was the golden head.
+
+What about the size, and what about the proportions?
+
+That's going to ask what those sizes are.
+
+Okay, 60 cubits, 90 feet. It may be a little less. Standard cubit, 18 inches. It is the measure from the back of the elbow to the fingertip. And at times it varied from 16 to 18 inches, depending on who was king at the moment. Because, of course, the standard was not some bar kept at standard temperature internationally in Paris. It was the king, the guy at the moment. And actually, the Lord's measurements are actually measurements of the human body. All are standard measurements. But in our age of scientific precision, we're not interested in practical measures; we're interested in contrived ones. Erica's stepfather, a research physicist of note, likes to quip—and he was fluent in French, and he'd done work in France—that these French noblemen were set off on this task by the king to go off and come back with a new measure that was based on the earth.
+
+And they came back. Supposedly, the meter is 140,000th of the circumference of the earth. But he liked to say he thinks these guys just went off about 50 miles, got far enough from the king so he didn't know where they were, and found a nice inn and sat there and drank beer—wine—for an extended time, and just got drunk for an extended time and came back with this supposed measurement.
+
+They had to come up with something that was very similar to, you know—I mean, it's basically 1.1 yards, and et cetera. But it's approximately 90 feet high and nine feet wide.
+
+What are the proportions of a real live human being? You know them if you think about it for a moment. I think your wingspan is supposed to be about the same as your height, right? So your arms—I don't know, like your shoulders? Yep. I don't know how much of that. Maybe like—okay, all right, you can do it. Eighteen inches.
+
+What happens if you fold 18 inches to 18 inches? Your fingertips meet at the back of your neck. So it's about one-third—sorry, it's one-fifth. I mean, right? Like one—oh, half. All right, so now you're going elbow to elbow. Sorry. All right, so what from the shoulder? Yeah, it should be about half of the neck to the edge of the shoulder. One span. How much is a span? One-half a cubit. Nine inches. A span is approximately nine inches. Mine is eight and a half.
+
+The width of the shoulders is about 18 inches, one-fourth the height of a standard person. So one to four is standard. One to ten—this character is tall, proportionally two and a half times a normal human being. Is this statue supposed to convey some notion? It's not just that this statue is huge. The head is two and a half times as far off the ground as a typical head, and it's a golden head.
+
+If you remember from chapter two, the description of the statue was, “There was a single great statue. That statue, which was large and of extraordinary splendor, was standing in front of you, and its appearance was awesome. The head of that statue was made of fine gold,” and so on. Here he's doing better than that. Refined gold means refined gold, pure. The whole thing is gold, at least on the exterior.
+
+But it is created to be seen well from a distance, to be imposing gold, to create in people a sense of majesty, of power, of brilliance, as there is a lot of sun in that part of the Mesopotamian world shining on this gold figure. So he has a purpose in this.
+
+A French expedition in the 1800s found what they're pretty sure would have been the base of a huge statue to the southeast of Babylon, in the plain there, the plain of Dura. And so this was for real. This isn't just a fairy story.
+
+Nebuchadnezzar has conquered now a vast empire from Egypt into Turkey, up through what we think of as Iraq and Iran, through the whole Middle East—Judah, Israel, the Assyrian Empire. He has conquered a lot, but now he needs to solidify it, unify it, get control of it, and keep control of it. And it turns out he's a masterful administrator, and not just a masterful conqueror.
+
+It's thought that this statue, as he is calling administrators from every part of his empire to come and worship this statue and to see his magnificence—because it wouldn't have been rough camping. They would have been wined and dined and seen the wealth of Babylon, and in every way possible put in a position of awe of Nebuchadnezzar and his wealth and his power—and you'd better follow orders.
+
+One of our students last night was telling us he sang at George Schultz's memorial service, which was held at Stanford just a few days ago. He was describing how the Stanford Chorale members were included in the reception, so he was there meeting and rubbing elbows and having pictures taken with various dignitaries and so forth.
+
+That was fun, with the comparison with this. This is kind of like a presidential inauguration. This is a big event, and Nebuchadnezzar is assembling all these people to see something truly awesome. Little does he know what he has called them together for, nor does he suspect who is actually behind his doing that.
+
+As we know, who stands over and behind history, and people just think they're doing their own thing. It's really fun. People pull things off to try to glorify themselves, and who actually gets glorified? He who sits in the heavens laughs. The Lord scoffs at them.
+
+Psalm 2.
+
+They think this probably was Marduk, who was the patron god of Babylon, but Nebuchadnezzar would be tightly tied with him, and he symbolized the whole pantheon of gods that were at the core of this empire.
+
+His intent is to unify and to command under his power. Obedience, complete obedience.
+
+He is in no mood for any deviation from anything that is not complete conformity, which is how any dictatorship works.
+
+What are the counterparts in our society where conformity is demanded and we have choices to make?
+
+But one question is, how long would this preparation take? This wasn't done in a closet. It didn't happen overnight. Daniel and his friends would have seen this coming for quite a while and known about what it was about.
+
+The question is, if you were in that position and you knew that what would be demanded is what you could not do as a follower of the true God, it would be easy for fear to be rising, and just that sense of dread of, "Oh no, I will have to take a stand, and that could be the end of everything."
+
+They're now in cushy, very successful careers. Daniel's three friends are the second level of administrative power in Nebuchadnezzar's kingdom. He is the chief administrator, Daniel, and he got these guys into positions immediately under him because he knew their qualifications.
+
+What happens when you hear this kind of a declaration?
+
+Okay, verse 7 to 12.
+
+**“Therefore, at that time, when all the people heard the sound of the horn, flute, lyre, trigon, psaltery, bagpipe, and all kinds of music, all the peoples, nations, and men of every language fell down and worshipped the golden image that Nebuchadnezzar the king had set up.”**
+
+**“For this reason, at that time, certain Chaldeans came forward and brought charges against the Jews. They responded and said to Nebuchadnezzar the king, ‘O king, live forever. You, O king, have made a decree that every man who hears the sound of the horn, flute, lyre, trigon, psaltery, and bagpipe, and all kinds of music, is to fall down and worship the golden image.’”**
+
+Shadrach, Meshach, and Abednego. And of course, they're referred to by the Babylonian names in this context.
+
+Where's Daniel? That's my question. Why is Daniel not included in the charge here? What was Daniel doing when the triangle, etc., were tinkling and blaring and everything else? Is he lying prostrate, worshiping the image?
+
+We're not told, of course, but Scripture loves to give us accounts that leave some things unsaid. What needs to be said to convey the message is always included. But then there are other things that are intriguing.
+
+It's kind of like, why parables instead of just—why bottom of the parable? Why not just give the bottom line? People don't pay attention. Puzzle people, and they'll think about it. They'll puzzle over it.
+
+We have to answer for ourselves the question, where is Daniel? What would Daniel be doing is part of that question.
+
+The other thing is, why isn't Daniel indicted with the other three?
+
+"I thought it was maybe because he had just told the king what his dream was and interpreted it, and so it's kind of like, you know, he's untouchable right now. We can't bring anything against him, but we can accuse others that are not him."
+
+Yeah, I think you're right. I don't think they would have dared include Daniel for multiple reasons. One is, they wouldn't likely get a hearing, and actually, they might not only not get a hearing, they might get a reaction the outcome of which they would not appreciate.
+
+I mean, after all, you don't fall down and worship the thing, we'll throw you in a blazing furnace. They're going to be careful what position they get themselves in with the king who issues edicts like that.
+
+These rulers were hot-tempered. I mean, we have a historical account of Xerxes, who was Persian, when he was trying to cross to Greece and a storm came up. He was so angry, he had his soldiers out whipping the waves because he was just angry that his will was being impeded.
+
+These rulers are not used to anybody standing up to them. They get their way.
+
+And we don't know. Maybe Daniel wasn't there. Maybe he was away on the king's business because he was at the top part of the court, not at this level of administration. We don't know.
+
+But anyway, it focuses on his three friends. It's their turn for their own walk of faith.
+
+"Yeah. Any thought at all that maybe they were also thankful because Daniel had interceded so that they weren't killed?"
+
+Yeah. They're indebted to Daniel. Another element in there.
+
+Okay. Let's read 13 through 15.
+
+
+**Then Nebuchadnezzar flew into a rage and ordered that Shadrach, Meshach, and Abednego be brought before him.**
+
+**When they were brought in, Nebuchadnezzar said to them, “Is it true, Shadrach, Meshach, and Abednego, that you refuse to serve my gods or to worship the gold statue I’ve set up?”**
+
+Okay. There it is. Literally, now if you’re ready—in the translation Carolyn was reading from—“I’ll give you one more chance.” I think that’s a very accurate interpretation of what he’s saying.
+
+Why would he do that? If you don’t, you will immediately—that’s the same thing that he said in verse 6. Anyone who doesn’t will immediately—but why does he give them a second chance? Wasn’t he entrusting the administration of major parts of his country to them already?
+
+Yeah.
+
+I think he didn’t really want to have to throw them in because they did their jobs well. And he figured if he threw them in, then they were gone.
+
+Yeah. Wow. Good thoughts here.
+
+Yeah, I think he likes them. It reminds me of John the Baptist. He doesn’t really want to. He gets himself in a corner.
+
+Yes, that’s a counterpart. We had a student years ago, a PhD, who went to China and was involved with Chinese industry. And this was before things opened. Things still were officially anti-Christian, as they’re returning to be now.
+
+But he found a very interesting thing. Repeatedly, he would be introduced by Chinese people in the labs and the industrial operation that he was part of. He would be introduced by them to somebody else as, “This is Joe Blow. He is a Christian. He likes to help.”
+
+So he had been open about it and trusting the Lord. He’s an example of what’s coming. And I think what somebody just mentioned about the various elements of it: Nebuchadnezzar liked them. Nebuchadnezzar appreciated the job that they did, in spite of the fact that—this might sound strange—but we know with Moses that it says that God hardened Pharaoh’s heart.
+
+And what I’m thinking right now is, it looks like God is softening Nebuchadnezzar’s heart because he really sets him up when he said, “What kind, or what God, is able to save you?”
+
+Yeah, and that’s our pivot into this next section. “What God is there who can deliver you out of my hands,” literally?
+
+Okay, let’s read 16 to 18. Somebody?
+
+**Shadrach, Meshach, and Abednego answered and said to the king, “O Nebuchadnezzar, we do not need to give you an answer concerning this matter. If it be so, our God, whom we serve, is able to deliver us from the furnace of blazing fire, and He will deliver us out of your hand, O king. But not—let it be known to you, O king, that we are not going to serve your gods or worship the golden image that you have set up.”**
+
+When else do we have a person just standing before a king or counterpart figure saying, “I don’t need to answer your question”?
+
+Jesus before Pilate. Pilate can’t believe that Jesus has the audacity to refuse to answer his question. “Don’t you know I have the power to crucify you?” What does Jesus say? He doesn’t say, “You don’t have that power.” He says, “You would have no power if it had not been given you from on high.”
+
+Basically, if God’s giving you that power, I’m not going to challenge it. But you have a responsibility. And of course, he just absolutely couldn’t believe what he was hearing. These guys have the guts to say, “We don’t need to give you an answer.”
+
+Acts 4 and 5 also have examples of this with the apostles who’ve gotten hauled in before the chief priests because they’re proclaiming Jesus. And they summoned them. This is Acts 4. They commanded them not to speak or teach at all in the name of Jesus.
+
+But Peter and John answered and said to them, “Whether it’s right in the sight of God to give heed to you rather than God, you be the judge. For we cannot stop speaking what we have seen and heard.”
+
+Yeah, you’ve been given the authority to punish us. But you don’t have the authority to command us to disobey God. We will obey God, and you can punish us for it. God’s given you that prerogative. But we have to obey Him no matter what.
+
+And I think it’s helpful at this point to think about how did they prepare themselves? Because they knew this was coming. It didn’t take them by surprise for quite a while.
+
+There are situations in each of our lives where you know a time is coming when it may be the need to stand up and speak openly about your faith. We have friends who are in contact with believers in Afghanistan, and as the Americans were pulling out, we heard reports that the believers in Afghanistan were preparing themselves to die.
+
+And that’s true in many other parts of the world right now. Idi Amin’s reign of terror in Uganda. A long time ago. But there was, I think, about a 12-year-old boy who was about to be necklaced, they called it, because of his faith—have a tire put over his head and the tire then filled with gasoline and lit on fire. And, of course, telling him to renounce his faith and curse Jesus.
+
+And his answer was, “I’m not afraid of the fire that takes me to Jesus.”
+
+And during Idi Amin's reign, the fact is, he tried to commit genocide and completely wipe out every believer. The faster he did that, the more the church grew because people saw how believers approached it.
+
+And from the first century on, the expression came up and has been used many many times, and it's in church histories all over the place: “The blood of the martyrs is the seed of the church.”
+
+And it's seeing how believers face death and face the threat of death, especially the threat of death if they do not deny Jesus. That testimony of their not being afraid of death, but fearing God—not in being terrified of God, but treating God as an ultimate significance and life-and-death significance.
+
+I've got to admit, I am honest with the Lord. I would prefer not to ever go through something like that. And it's perfectly appropriate to tell the Lord that. But at the same time, to say, “Have us ready for whatever You call us for.”
+
+One other interesting thing, which is a little bit like this with the testimony to unbelievers: I believe it was in North Korea a number of years ago, the account. There were a lot of believers. The believers were rounded up by the atheist communist forces, and there was a church which had a mosaic representation of Jesus in a circle on the floor in the church.
+
+And they marched all the believers past this, ordering them to spit on the image of Jesus. And they separated them, the ones who did spit on it and the ones who did not, having threatened them with death.
+
+And then they executed the ones who did spit on it rather than the ones who did not, saying, “Anyone who would deny the one they're most devoted for so easily is not of any worth. So we're eliminating them.”
+
+There are accounts like that that happen to witness in these kinds of situations. But there are also counterparts. There are times in our lives where you may know that you're presenting in front of a conference and your career depends on it. We have PhD students who are in that position, or where you have an operation coming up where your life is on the line.
+
+And there are these times where we know this big time is coming. And how do you prepare? Because it's easy for fear to rise up and just be gripped by the fear that you don't prepare, and then are helpless, are washed by the fear, and that's all there is.
+
+And what do we know? Because this didn't happen overnight. It would have taken quite a while for the statue to be made and set up, for all of these administrators from the far far reaches of this empire to be summoned and come. And this happened over a long time, and they knew this showdown was coming.
+
+What do we know already of how they would have prepared, from what we know of them in Daniel so far?
+
+They would have been praying.
+
+Yes. And where do we see that?
+
+The food. Didn't they pray about the food before?
+
+Yes.
+
+I don't know. Maybe that wasn't—maybe it's my imagination. I thought they prayed when they were deciding what to do about the food.
+
+But they were in a habit of praying.
+
+Yeah, they're in the habit of praying. And when do we have a reference to that?
+
+You asked them to join him when he was going to do the whole thing about interpreting.
+
+Exactly. He got them together to pray with him, to support him in this trial.
+
+We know that they got together to pray, and certainly not just that one time. We know that certainly, and we'll see that later—individual prayer, but also having gathered a group who were encouraging one another to serve the Lord and stay true to Him, who were praying together when issues came up.
+
+Spiritual practices that helped them to grow and to be prepared to deal with the challenges of their lives. They had this core. They walked with Daniel, and they watched Daniel go through what he was facing.
+
+And remember, it wasn't just he had to interpret the dream, but remember what the threat was there. The king was about to wipe out all these wise guys, including Daniel and his three friends.
+
+And Daniel went and said, “Give me some time. God will show me the answer. I don't have the answer. God has the answer. God will show me the answer. Give me some time.”
+
+And they watched how Daniel faced that threat, and they learned. That's part of this.
+
+Now—wait, can I add one more thing?
+
+Yes, please.
+
+I think that it's important to think about how they prayed. I think that when they prayed and talked, they were reaffirming what they knew to be true in their history. They saw what the prophets said. The prophets said we'd be going to Babylon because we didn't follow Him. Look what God said in the dream to this pagan. God is in control. Eternal perspective.
+
+I think that just remembering—and it's just so encouraging when it says, “God will deliver us out of your hand, O king. Whether we die or not, we're not going to be under your rule.” Eternal perspective.
+
+And you just brought something up there that we wanted to note. Thank you, Tammy. “What god can save you out of my hand?” “Our God, whom we serve, is able to deliver us from the furnace of blazing fire. He will deliver us out of your hand, O king.”
+
+So there's the answer to, “What god can?” Our God will. But even if He does not—it's not if He doesn't deliver us out of your hand. But notice the distinction here. He is able to deliver us from the furnace of blazing fire. He will deliver us out of your hand. But if He doesn't save us out of the furnace of blazing fire, God is going to save them out of the king's hand—maybe saving them from the fire, or maybe saving them from the king's hand through the fire.
+
+They don't know whether or not they're going to die. The king can throw them into the furnace, and God can save them. But they don't know what He will do. They don't have any promise of that. They do know God's ability, and they do know that God saves His people from the power of political rulers. He does it in various ways, sometimes through thwarting what the political ruler has in mind, and sometimes through excusing them from further stuff by taking them home.
+
+Reminds me of Abel. Cain and Abel. God did not save Abel. He let Cain kill Abel, but He saved Abel from all that sin stuff that was going to come before the flood. He did save him from Cain. He did not suffer any further abuse from Cain once Cain killed him.
+
+One question here is: how could they make such strong statements? Again, they aren't just blurting this out. They've prepared what they're going to say. How do they know they're making very strong statements? What are they? This is part of their preparation. What can we infer from these really strong statements that they're making? How did they prepare?
+
+As was already mentioned, they pray according to what they know. They pray according to what God has said. They're not praying alone. Confident prayers based on what they would like God to do. They do pray. They do make requests of God regarding things that God hasn't said He would do, and that's perfectly appropriate. But they pray with absolute confidence about what God has revealed in His Word and in His actions in fulfilling His Word. That's what they pray about with absolute confidence.
+
+One of the things I'm thinking is that, let's say the prophet Jeremiah—they knew the prophet Jeremiah. There were times where Jeremiah was saved from his own king in Israel. That was part of the preparation for their exile. Jeremiah was going to talk about the exile and how long they were going to be there and all that. But they also had seen Jeremiah's deliverance from Judah's king.
+
+Jeremiah was a contemporary, right? They would have seen some of this.
+
+Couldn't you go back to God delivering the Israelites from Pharaoh? Yes, exactly. This is all in their Scriptures. It's all the story of their people, of their family, because they're tribal people. And they take this history very personally. They have seen again and again in their family history God's intervention—powerful intervention. Exodus is a central one. How about others? What else would they know?
+
+How about Elisha, when the king of Israel is out to take him, and his servant comes and says, “Oh my gosh, we're surrounded. The city where we are is surrounded by your adversaries. What are we going to do?” And Elisha prays and says, “Oh Lord, open his eyes,” and the entire area around that army is surrounded by the chariots of God. And he says, “The one who is with us is far greater.” Pulling back the veil to the real power, which is the Lord and His forces.
+
+And all of David's history, as the Lord saved him again and again from a jealous king. Here there is jealousy afoot with these Chaldeans. But the Lord is able to deliver from jealous people who try all they can to do people in. Elijah with Ahab.
+
+How do you prepare if you're headed into a scary situation? You pray. Pray with friends who are close to you, who can pray with you. Look at Scripture from biographies where you can look over the shoulder of others. The trouble with our own lives is we only have a partial picture. Things look like dead ends. Things look like disasters. We don't have the whole picture.
+
+But with the spiritual biographies, you've got the beginning, the middle, and the end. You know what God does. You know where it goes and what He does with disasters and dead ends and all of that sort of thing.
+
+Spiritual biographies and God's promises, like the end of Matthew—they wouldn't have had this, but we do. The end of Matthew: “I am with you always.” We have our Emmanuel, God with us all the time. We never face anything alone.
+
+Going into a scary situation that you know you likely cannot avoid, how do you prepare? And that's very helpful, to see those principles and then walk them out in your own life and watch the Lord at work.
+
+Strengthening you doesn't mean that they weren't scared as they walked out onto that plane. They probably were. Often, the Lord doesn't help us to feel strong and mighty as we walk into situations, but the Spirit takes over as we're in it. And we've experienced that many times.
+
+We'd much rather pray and then feel like Superman and move into it with power and strength. Usually, the Lord's power and strength doesn't arrive until the moment, because that keeps us trusting Him. And we've learned, as we pray, to even say, “Lord, I trust You. You say that You are with me. I trust You that You are. And I trust you. You say it will be given in the moment what to say when we're hauled before authorities. And so I trust You that You will give those words at that time.”
+
+v19-23 (reader is reading NLT)
+
+**“Nebuchadnezzar was furious with Shadrach, Meshach, and Abednego that his face became distorted with rage. He commanded that the furnace be heated seven times hotter than usual. Then he ordered some of the strongest men of his army to bind Shadrach, Meshach, and Abednego and throw them into the blazing furnace.**
+
+**They tied them up and threw them into the furnace, fully dressed in their pants, turbans, robes, and other garments. Because the king, in his anger, had demanded such a hot fire in the furnace, the flames killed the soldiers as they threw the three men in. Shadrach, Meshach, and Abednego, securely tied, fell into the roaring flames.”**
+
+What's Nebi doing now? Verse 19: filled with wrath. His facial expression altered. “They don't respect me.”
+
+I don't know how many of you have experienced this. It's quite something when you see someone who is furious that very clearly the person has given himself to demonic power. We have seen it.
+
+We had a situation where we were ministering to someone who had dabbled in the occult, and he tried to kill Steve. As he was doing that, his entire face changed. It was as if I was seeing a demonic face in him as he went for Steve. And the Lord delivered Steve.
+
+We've seen the same thing on a couple of other occasions. Each time, we've seen the Lord quite adequate to stay on top of the situation. But this is extreme.
+
+They are threatening his plan for control and uniformity of his kingdom.
+
+If these top administrators will stand up to him, if they can get away with it. Picture the scene. There are thousands on their face in a salaam position, and there are three lone figures standing. Talk about standing out like a sore thumb. Maybe praying that they aren't peeking, but obviously people were looking and knew that they wouldn't.
+
+Now, v24 and 25.
+
+**“Then Nebuchadnezzar the king was astounded and stood up in haste. He said to his high officials, ‘Was it not three men we cast bound into the midst of the fire?’ They replied to the king, ‘Certainly, O king.’ He said, ‘Look, I see four men loosed, walking in the midst of the fire without harm, and the appearance of the fourth is like a son of God’s.’”**
+
+We've got quite a study of Nebuchadnezzar. Again and again, we have his response, reaction to whatever. Filled with wrath. Now he's astounded. What are we watching? Verse 16: “O Nebuchadnezzar.” They don't say king either. “O great king, live forever.” No. “O Nebuchadnezzar.” Call him by his personal name. It probably is a title, but still. “We do not need to give you an answer concerning this matter.”
+
+Is he getting an answer? Who's giving it?
+
+Astounded. Go ahead.
+
+You mean while they're in the fact that they're in the furnace and not being burned up? Is that your question?
+
+Are they getting an answer? And he is getting an answer. Progressively, he's getting an answer. “What God can save you?” As they said, God can save us, and now God's saving them.
+
+It's amazing, though. Can I just say something?
+
+Please.
+
+I'm just thinking of God's grace. Again, I think of Cain and Abel. God was so gracious and merciful to Cain, and here He's being gracious and merciful to Nebuchadnezzar. He could have made Nebuchadnezzar melt away with those guards, but He didn't. And He lets Nebuchadnezzar see Jesus or whoever that fourth figure is. He lets him see Him and give glory to God. He didn't have to do that. He gives Nebuchadnezzar that privilege. Of course, it's all for God's glory, but that's grace, really.
+
+It is because this man has committed a lot of wickedness, vast destruction of a lot of people. And it would be easy to just say, "Get rid of him, God." But you get in 1 Timothy 2, Paul saying, "First of all, then I urge that entreaties and prayers, petitions, thanksgivings be made on behalf of all men, for kings and all who are in authority." And at that point, Nero was on the throne, one of the most despicable people who've ever lived and ever held authority. And he says, "It's good and acceptable in the sight of God our Savior, who desires all men to be saved and to come to the knowledge of the truth."
+
+And the Lord's passionate heart is to try to reach Nebuchadnezzar, among others. Bit by bit, through Nebuchadnezzar's own choices, he is getting glimpses of the living God. Not so much that his own choice is overwhelmed, but bit by bit so that trust could be wooed and a case is made. He said, "What God could deliver you?" The Lord is showing him. Will he respond? And with these extreme measures that he's taken, Nebuchadnezzar is being shown that he is powerless in the face of their God. He's never seen anything like this. And he's doing his absolute best to do his absolute worst, and it's being overruled supernaturally.
+
+It's interesting, he comments on the fact that the men in the furnace are freely walking around in there, which should be astounding enough, but the big thing that's caught his attention is there's one more than he had thrown in there.
+
+Of course. Who is that?
+
+One of those things that Scripture does not tell us, leaves it to us to conjecture. And various interpreters over the centuries have put forth very confident conjectures, with various arguments behind them. Now, it is literally like a son of gods. It is a son. It's not the Hebrew; it's bar, which is the Aramaic counterpart. So it's not even literally what we have with the typical term for son in the Hebrew Bible, but we are in an Aramaic passage anyway.
+
+And it's interesting, it translates gods. Now, you know, this is the generic term for God, which is a plural, which can be applied to refer to God singular or to gods plural. The text is not specific, but it's wise to translate, "like a son of gods," because this is talking about the evident nature of this one, and it obviously is something more than he says, "the appearance of the fourth." It's more than the fact that this is somebody who's able to walk around in the fire, as these three men, who are normal men otherwise, are able to do in this instance. But that's what particularly grabs his attention.
+
+Steve, would it be—there is something very, very different about this fourth one.
+
+Yeah. As you've talked about it, it made me think of the Transfiguration. There was something different there about Jesus. Now, Peter messes it all up, but there was still something very, very different.
+
+Yeah. There is something very definitely supernatural about this human manifestation here. The appearance of this one is clearly God's supernatural action. But who that person is, of course, is conjecture. But yes, this is the same kind of manifestation that was true in the Transfiguration.
+
+Is this the pre-incarnate Christ?
+
+Yeah, one, of course, of the Transfiguration conjectures, theories is that this is the pre-incarnate Christ.
+
+The quip came out last night: now we know where Daniel is. He decided to join them. "I don't want to be left out. Hey, you know, you guys are going to go firewalking. That looks like fun."
+
+I've done firewalking. It's—anyway, but not like this.
+
+What, Tammy?
+
+Oh, it just reminds me of when Jesus appears to Paul and says, "Why are you persecuting me?" When you persecute God's people, you're persecuting Him. And here's a picture of it. You know, "I'm with you and I'm here." Of course, you're not, you know, it's not painful if you're with me. But anyway, yeah.
+
+A little note here, by the way: don't be taken in by demonstrations of firewalking as supposedly supernatural power. I said I've done it. The trick is you use softwood to make the coals, so the specific heat is very low. Temperature's up, the heat is low, and you wait until they ash over. Which means, as you walk on it—and you don't go and just stand there and park on it in one place—as you walk across it, ash actually is a thermal insulator, which is what's behind banking a fire for the night.
+
+You cover the hot coals with ash, and in the morning, the coals will still be hot because they haven't had any oxygen yet. And they've not been able to be consumed, though they've maintained the temperature.
+
+Believers have been taken in by these firewalking demonstrations. So I can't resist. And, as I say, I've done it because one of our students used that as a demonstration in his physics classes when he was head of the physics department at Westmont, to demonstrate the difference between temperature and specific heat, showing why you can put your hand in a 400-degree oven and not get burned.
+
+That's because your hand is in air, which has a very low specific heat—same temperature as the walls of the oven. In fact, that's how the food is being heated. But if you touch the walls or if you touch the rack in there at 400 degrees, it'll have a very different effect.
+
+Ken's demonstration was a favorite every year, and it really communicated clearly. This is the real thing, and this is an extremely hot furnace, as has been declared multiple times.
+
+Nebuchadnezzar knows he's seeing something supernatural happening here.
+
+Steve?
+
+Yeah, I was going to add one other thing.
+
+Please.
+
+It said in there about the soldiers who threw them into the furnace were killed because the furnace was so hot. And it was interesting because the king had ordered his strongest soldiers to bind them, and now they just died because they got so close to the furnace.
+
+Yeah, and they weren't even in it.
+
+No, they weren't even in it.
+
+Wow.
+
+Verses 26 and 27.
+
+**Nebuchadnezzar then approached the opening of the burning furnace and shouted, “Shadrach, Meshach, and Abednego, servants of the Most High God, come out. Come here!”**
+
+**So Shadrach, Meshach, and Abednego came out of the fire, and the satraps, prefects, governors, and royal advisors crowded around them. They saw that the fire had not harmed their bodies, nor was a hair of their heads singed. Their robes were not scorched, and there was no smell of fire on them.**
+
+I wish that would happen when I barbecue. I have to shampoo every night after a barbecue.
+
+Now, what does Nebuchadnezzar conclude?
+
+And they serve the Most High God, even as they serve him.
+
+That's a statement about who their God is, the one who would lead them to defy the king. But that's a very interesting point, that these people who serve the God that Nebuchadnezzar is now recognizing to be the supreme God are able to serve him. They're under the authority of the greatest power that there is, and yet they are able to serve faithfully under the power of a mere man, even though he is in an extremely exalted political position.
+
+Now, who does he call out, and who doesn't he call out of the furnace?
+
+Yeah, that's what I was wondering. Like, what happens to the fourth person?
+
+He calls Shadrach, Meshach, and Abednego out.
+
+Who comes out? Who doesn't? We can't go there.
+
+Maybe part of it is just not feeling—maybe he didn't want the angel to come out, or the whatever. It looks like a god. You stay there. I just want the people out that I know how to deal with.
+
+Maybe. I know these three guys. I can trust that they're not going to harm me unless they're going to become vengeful at this point, and I'm going to see an aspect of them that I've never seen before.
+
+That's a point. I'm not sure I want to mess with you, and I'm not sure I can give you orders.
+
+The other thing is that he may not have known what name to call them by.
+
+He could have just said—and that's the worst thing ever. I'm sure he didn't want to go, “Hey, you.”
+
+He might have said something like, “You whose appearance is like a son of God’s, would you mind doing me the humble courtesy of stepping up to let me ask you a question? Very gentle question or two.”
+
+I wonder if that fourth figure didn't disappear before Nebuchadnezzar decided to call them out. He's like, “Okay, I'm not going to—I don't know what to do here. Oh, that guy's gone. Let me call them out now,” or something.
+
+That is a possibility. It's a possibility that occurred to me, that maybe he's no longer visible, whether he has disappeared prior to calling them out, or whether he just disappears as Nebuchadnezzar dares to go as far as to call the three out.
+
+Again, intriguing open elements of the account, and yet everything we need to get the point is explicitly clear.
+
+A lot of the things that have come out tonight had not occurred to us before. Things that did not come out last night, though last night with the students, some things came out that we'd never noticed before in the text.
+
+I know many of you heard the world-renowned philosophy professor that we read recently. We read Scripture together an hour a week for 27 years. He came in one day, and before he even sat down at this table we're sitting at now, he said, “Given enough time, 30 or 40 years maybe, it's possible to plumb the depths of an Aristotle or a Plato,” and that's part of what he was renowned for. He had absolutely plumbed the depths of both Aristotle and Plato.
+
+And he said, “However, the thing about these texts is nobody will ever plumb the depths of these texts.”
+
+From him, that was a huge statement.
+
+Expert on classical and Koine Greek. And anyway, it was a marvelous experience. And he became one of our best friends. Still is, though we haven't seen him for a while. Quite a few years. He's home with the Lord.
+
+Okay. So now everybody sees something. Remember, Nebi assembled all these guys to impress them. He succeeded far beyond and in ways that he never imagined, and might well never have embarked on if he had known what was going to happen.
+
+Who sees the Lord in this situation? Who are the people the Lord reveals Himself to?
+
+The three guys in the fire, for sure. This was the high point of their lives. They get to walk in the fire with probably Jesus. They're trusting Him to stand up when everyone else is on the ground in worship. They're standing for Him, and then He's standing with them and walking with them.
+
+They would be telling their grandkids, their great-grandkids, whether you want to hear it or not, “I'm telling you the story again because this is the high point of my life. I have seen and walked with God.”
+
+Who else sees the Lord?
+
+Sounds like all the officials.
+
+From the entire empire, from the farthest corners, all these different languages and peoples, representatives from every single corner of the empire are there. Who else do you think heard about all of this from them when they get home?
+
+“Oh, it was a great party. We saw Nebuchadnezzar himself.”
+
+What do you think? “And he served great wine, and the entertainment was spectacular.”
+
+Every single person in that empire would have heard about this. This was the new news because no one had ever seen or experienced this before. The news of it, in detail, and probably exaggerated detail, would have gotten out to the farthest corners. This would have been the ultimate gossip.
+
+Nebuchadnezzar responded and said, “Blessed be the God of Shadrach, Meshach, and Abednego, who has sent His angel and delivered His servants who put their trust in Him, violating the king's command, and yielded up their bodies so as not to serve or worship any god except their own God.”
+
+What else does Nebuchadnezzar proclaim he has concluded about their God? And what has he concluded about the fourth figure?
+
+He knows he's a representative of that God, whether it's Him or not. God cares about what they do, and God delivered them from doing what was not good, worshiping a dog. He sent Nebuchadnezzar His angel, and I assume angel and messenger are the same term. He sees that this fourth figure was sent from God.
+
+He's making big progress. He doesn't draw the final conclusion about God. But this is the way God works. He draws people in to see progressively more and more of who He is.
+
+I think he also concludes the first commandment of the Ten Commandments, that they are to worship and serve God alone rather than a bunch of different gods.
+
+“No other God before Me.” This God is number one. He hasn't concluded He's the only one. But He is supreme and He's powerful. He's more powerful than I am.
+
+And what an amazing statement. “This God is to be blessed and who moved His servants to violate my command as the most powerful political person.”
+
+Can you imagine the President of the United States blessing somebody's God because God had moved those who worshiped that God to defy the orders of the President of the United States? Could you see the Pharaoh of the Exodus making that kind of a declaration? That's an amazing thing he says, that they put their trust in Him, violating the king's command. It doesn't say my command. The point is, it's the king, and they put their bodies on the line. This wasn't just civil disobedience. They were willing to die rather than violate the instructions and calling of their God. That God is amazing. What He did—He sent His representative, He delivered them—and He is amazing. And He's saying, “Blessed be...” This is the aspect of blessing, of acknowledging the magnitude, the majesty, the extreme majesty of God.
+
+I'm thinking Jeremiah is still ministering to those who haven't been hauled off in exile. Daniel's there with the king, and Ezekiel—they're all aware of one another, I think, because Ezekiel's amongst those exiled and encouraging them, going through all kinds of crazy things on his own. But he's there to just be reminding them and seeing how that does eventually purify them from all this idolatry that's bothered them for centuries.
+
+And the king caused Shadrach, Meshach, and Abednego to prosper in the province of Beth.
+
+He's going to bless these servants of the Most High God. And I think, too, he has tremendous respect for men who would trust their God enough to do this. They have definitely earned his respect, and they obviously have a very powerful God who is at work through them. And he wants to harness that, if he can, to his benefit.
+
+Exactly. It's interesting the way he wants to punish anyone who is going to do anything, say anything badly against this God. And he wants to bless them so that he'll receive blessing. It's very humanistic. It's funny. God never says He's going to punish unbelievers who speak against Him. Islam says, “You speak against the Quran, you speak against Muhammad, and we're going to kill you.” God never has to do that. But this pagan guy, he's in his own understanding, “I want His favor, so I'm going to destroy anyone who says anything bad about Him.” That's so funny. It's so human thinking and not God thinking at all.
+
+The current regulations in universities and institutions, and even laws against offensive language against certain people and certain ideas, it's not new. It's man's idea of how to control people. And you're right, Tammy, in the Middle East, this is still practiced in places where someone who is judged an offender, his entire home will be destroyed, and his family, so his influence will not continue and his memory will be gone. It's a strong deterrent.
+
+Verse 30: “Humble yourself,” as Peter said. **“Humble yourself under the mighty hand of God that He may exalt you in His proper time.”** And God will do that.
+
+One example among many that we've seen at Stanford: one student working on her PhD was in a lab where the director of the lab had a Friday evening department or lab party for everyone in the lab, and everyone was expected to attend in this professor's home. She served lots of alcohol, and drugs were freely available. The student that we were privileged to serve for the Lord would go. She would have a soft drink. She could have had a drink that wasn't, but she chose not to imbibe any alcohol at all. She had a couple of non-drugged snacks, and excused herself and left before people started getting drunk, and the clothes were coming off, and people were hopping in the hot tub together and then elsewhere around the house.
+
+Her major professor told her repeatedly, “You're throwing your life away. You are too uptight. What you need is drugs, alcohol, and sex.” And she didn't go into any of those things. The professor was engaging in all of that with her students as well. But our student stood firm. She was very polite. She was very honoring at all times of everyone in the lab.
+
+You should have heard what her professor said of her when she passed her defense, when she was getting her degree. She didn't say anything about the conduct in terms of drugs, alcohol, sex, but she just had only the highest praise for this student. The one thing was, she was insisting but not publicly, that the student was throwing her life away because she was getting married and wasn't, because she was such a gifted woman, devoting her life entirely to science and exalting herself as a woman and showing what women can do in science, et cetera, et cetera.
+
+We could go on all week with stories like this. And we know we're right at the end, past the end here, but it does raise the question: How do you know when to stand up and when not to? Because it's clear Daniel and his buddies had been serving the true God and not the gods of the Babylonians for quite a while. The Chaldeans said, “They don't serve your gods.” It's not just they aren't bowing down to this particular statue. They don't serve your gods.
+
+They had been quietly open about it, but not, just in case anybody's wondering, we don't serve your gods.
+
+The question is, when are we called to stand up in a way that really stands out, those three lone figures on that whole plane?
+
+As came up earlier, I think Erica said it—others may have also—they didn't serve other gods, but they did serve their political sovereign, and they served him well. They were not rebels. And they glorified God by the way they faithfully did their best to do everything that was pleasing to God. The fact that it was pleasing to the king didn't make it odious. It was only if it was displeasing to the true God that they would not do it.
+
+Look at Joseph, rising to power from being a kidnapped slave because of the jealousy of his brothers, who would have liked to have killed him and then decided, "Hey, we can make some money, so why kill him?" And he, by continuing to be faithful—he had learned to honor his father and to serve his father well, which is what galled his brothers, among other things, and he was the goody-goody—and he just kept right on doing that. He kept serving the Lord in Potiphar's house and then in the prison, and before you know it, he is the second most powerful person in the political world of his day, second only to Pharaoh.
+
+What we have seen is being willing to stand up, but also willing to quietly but openly pursue your relationship with the Lord. And that may get you in trouble. But being open about it, not flaunting it, not being in people's face about it, and letting the Lord use that witness.
+
+We had, years ago, a physicist from Germany who had done research at the great accelerators in the world—CERN, SLAC, and other places. When he and his wife were here and he was at SLAC, they both attended our classes, and we became really close, and they grew a lot in the Lord.
+
+He actually died of a heart attack on a camping trip with his son. He and his son and another man and his son had gone backpacking together. They were way back, and he suddenly dropped dead of a heart attack.
+
+Steve was asked by his widow to do a memorial time at SLAC with the senior scientists who were close friends of his. There were about 20 of them there. We were going to scatter some ashes. Most of them self-identified as atheists, and there were a couple of Buddhists.
+
+Steve spoke from Psalm 139, and then they started to share. One man said, "I went to multiple conferences with this man, and I would be sleeping in as long as I could before the session started, but every morning when I woke up, there he was spending time in his Bible and praying."
+
+They all knew he quietly but clearly lived his relationship with the Lord. Any time there was an ego altercation between scientists with big egos, they would call him in because he was so gifted at reconciliation. They knew who was the core of his life. It was Jesus.
+
+He wasn't afraid to stand out amongst atheist scientists. He was quietly clear about his faith, not in their face, not pushing it, but living it. And they saw the Lord, and it was remarkable what was said that day. The Lord had been showing Himself through all the years that that scientist had been there among them, living his relationship with the Lord openly.
+
+There are a lot of chances to do this. We found it at reunions, starting about 40 years in. My high school 40th reunion, I had a friend that I had totally lost touch with for decades call me from Texas and say, "Are you going to that reunion? Because I will go if you go, if we can spend the rest of the afternoon and evening afterwards together. When I was with you, I experienced God, and I need to know more."
+
+That was 40 years later. As each of us are living our lives openly in the Lord, not in people's faces, but just clearly who we're trusting, who we seek life from, who we represent, the Lord is planting seeds just like He was for Nebuchadnezzar, for all of those officials. And some will see, and their ears will be opened. And sometimes it takes 40 or 50 years. But you will be surprised in your own life when the Lord brings that conversation up with someone 40 or 50 years later.
+
+The same with family reunions. There are times where I've stuck out as a really sore thumb. When I first came to the Lord, I told my father and grandfather that I had just received Jesus, and I took much flak for it. I saw a side of them that I didn't know existed, and it was painful.
+
+But later, we had chances. They were asking questions. Steve and I had opportunities decades later after they'd watched us for quite a while.
+
+In talking about older people, the typical appearances that they don't know their need, that they don't know their guilt, they don't—you know—and the typical approach to try to reach them is to try to convict them. Don't waste your time. They know.
+
+And I think that's what Jesus is talking about when He said "The fields are ripe for harvest. They know their own depravity. The longer they live, the more they're aware of that. They don't know there's a way out. They need the good news, and people try to reach them with the bad news. No, no. Proclaim forgiveness, and people are free to acknowledge their need for it.
+
+Not all people will, of course, but there are many people who are already convicted, but they don't dare admit it. I mean, you're hauled into a courtroom. Do you stand up and say, “Thank you for this opportunity for me to declare everything that's wrong with me?”
+
+But walk into a doctor's office who has a reputation for being able to heal the kind of things you're suffering from. What do you do? You walk in the door, and you just don't want to waste a moment telling the doctor what's wrong with you so that he can fix it.
+
+> Lord Jesus, thank You. Thank You that You are gentle, that You show Yourself to each of us over time in ways that are clear if we're willing to see, but not in such overwhelming ways that we don't have freedom of choice. Thank You that You build a case for real trust in You that is solid and secure.
+
+> And thankYou that each of us here have entered into trusting You, receiving You, and that we're in a lifetime of learning to trust You as we hit these times that we would really rather not walk through, that are so fearful. But thank You that even though we walk through the valley of the shadow of death, we need fear no evil because You are with us.
+
+> Lord, strengthen each of us with the challenges of our lives to trust You, to turn to You in prayer of trust and thanksgiving, to turn to biographies in Your Word and promises that You make, and pray from those, knowing that You love us, You love to strengthen, You love to deliver, and You love to use us in dicey situations so that people see You, Your strength, and our weakness.
+
+> Thank You, Lord, for each one here. Would You please strengthen and encourage everyone for the challenges in their lives? May they show You forth, and may people see You in them and through them, through all of us.
+
+> Thank You, Lord, in Your name. Amen.

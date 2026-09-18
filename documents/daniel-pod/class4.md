@@ -1,0 +1,529 @@
+> Lord Jesus, thank you so much that you are here. Wherever each of us are, you are here. Thank you for your tremendous love. Thank you that you are the living God and that you reach in your love and demonstrate your presence and your power because of your compassion. And you've been doing that from the top to the very dregs of society since the very beginning. And we're so thankful.
+
+> We ask that you will open our ears to hear you, our eyes to see you, underline for each of us the truths that we're ready to walk in. And may we walk more and more in active fellowship with you, active trust. May we be a strong part of what you are doing in this age with the people in our lives, both those that we know and those that we don't.
+
+> Thank you for each one of these dear ones. Would you please hug them tonight and lift them up, whatever burdens are on their hearts, whatever questions and concerns they've been taking to you? We ask with confidence that you will answer with your love and with specific provision, answers to the puzzles of our lives, the needs of our lives, and those of the people we know and love, and even the people that it's more difficult to love.
+
+> Thank you, Lord. Please teach us as you worked wonderfully, powerfully in Daniel's life and his friends. Thank you, Lord. Amen.
+
+Welcome. Tonight, as I think you got the announcement, we are going to join Daniel in the lion's den. And it wasn't just a bunch of cuddly kittens to snuggle up with.
+
+Again, we're looking with the focus especially of what were the spiritual disciplines that Daniel clearly had practiced, had walked in for so long, that had enabled him to be used powerfully of the Lord in the most wealthy, most powerful empire of the time and at the very top. And as we know, the Lord plants each of us in different places with different people. We have met the Lord's people seated throughout Stanford University and been tickled by hearing reports of their connecting with students who have elsewhere that have just arrived, and all the divine connections are delightful.
+
+Let's dig in. There's a lot of very rich truths here. This is far from a simple Sunday school story. Let's start by reading verses 1 and 2 of Daniel 6.
+
+**It seemed good to Darius to appoint 120 satraps over the kingdom, that they would be in charge of the whole kingdom, and over them three commissioners, of whom Daniel was one, that these satraps might be accountable to them, and that the king might not suffer loss.**
+
+Hey, what do we see here?
+
+Organization, administration. And again, this is a change of power. The verse in the chapter before, Belshazzar is brought down in one night from his time of slavery, revelry with the Lord's vessels from the temple, and that night he is killed. He is slain, and Darius the Mede received the kingdom at about the age of 62.
+
+And we have historical records of that. He was cut down in his house as he was partying.
+
+If you're going to go out, might as well go out with a bang.
+
+We actually have seen something parallel. I won't say too much, but there was one university official who affected religious things very highly, who was questionable in a lot of what he did, and the Lord finally removed him. We got to attend and enjoy the very lavish retirement party at the faculty club paid for by the university, which it paid for out of his budget. The U.S. government caught up with him.
+
+People in positions of high power with big budgets like to throw big parties for themselves.
+
+Here, Darius, though, and they don't actually know for sure who this is. This is not Darius the Great from the height of the Persian Empire. He's later. This is probably Cyrus' general. That's the best thinking, or that it was actually Cyrus' general. But his general is mentioned first for some reason. They don't know for sure.
+
+This man shows himself not only to be great in military conquest, but in administration too. That's what's being accomplished here. He's now added a vast empire. The Medes and Persians joined together to bring down the Babylonians. It made a much larger empire, which the Lord will use to proclaim His name over a much wider group of people in this chapter.
+
+What does this specific administrative move signal? What's the situation here? Why is he doing this?
+
+I guess my guess would be that the 120 satraps are potentially like local rulers. Then the three commissioners are kind of the central rulers and they're kind of directing the local rulers and interfacing with them. The three commissioners interface with Darius, is my guess.
+
+What about that last clause?
+
+The key here is Darius wants to make sure that he doesn't suffer loss. It's like the changing of the guards with the focus being people who will work well for him. He needs auditing oversight because he knows the typical manner. What was typical then is still typical in much of the world, including particularly the Middle East. You don't get anything without a bribe. You get into a position, the more power you have, the more personal wealth you accumulate. We see this worldwide with one dictator after another.
+
+The U.S. has had challenges with this, that the U.S. will use its influence to get somebody who seems to be responsible and trustworthy into a position of authority in some place where things are very unstable. That goes along for a while. Pretty soon, that person is just raking in the power and the money and bathing in personal wealth and becoming more and more corrupt in their management. We've had to bring down one dictator after another that we helped put in power. This is human nature.
+
+Just going back to Darius, when he said that he received the kingdom at the age of 62, with the Judean kings, they do mention that so-and-so became king at the age of this, so-and-so became king at the age of that. Is it significant to know that this is an older person, like he's 62 versus 15? I don't know.
+
+It is somebody who's older and more experienced than a lot of the ones who ascend to power. But this is not hereditary succession of power, and that may have something to do with it.
+
+It also raises the question you're asking: does age mean wisdom? And that's a question through this passage. He's showing wisdom here. Does he continue to show wisdom? That's a real question. It's a question for each of us. We may build strong when we're young with the Lord, but do we finish strong? We'll see.
+
+We're seeing some questions brought out here. Will these officials make sure the king doesn't suffer loss? That's a question. It's his hope. He's setting it up for that, but is that true? Another question is his age. Does that mean he's wise? This sounds good at the beginning. How does it play out?
+
+Let's read verses 3 to 5 and then consider what is said about whom in that.
+
+Okay, I can read. Verse 3: **“Then this Daniel began distinguishing himself among the commissioners and satraps because he possessed an extraordinary spirit. And the king planned to appoint him over the entire kingdom. Then the commissioners and satraps began to find ground of accusation against Daniel in regard to government affairs. But they could find no ground of accusation or evidence of corruption, inasmuch as he was faithful, and no negligence or corruption was to be found in him.”**
+
+Speaking of age, by this point, Daniel is probably in his 80s. He came as a captive to Babylonia between the age of 12 and 16. He has served through all of the Babylonian kings. And now he's continuing to serve among the Persians. They've been wise in finding out who is capable. But he is certainly in his 80s by this point. So talk about age and wisdom. He's showing that he does have that.
+
+And it goes with Psalm 92. You can look it up on your own. But being farther along in life, you can still be full of sap and very green and still producing much fruit if you are devoted to proclaiming the Lord's excellencies and walking with Him.
+
+Now, what about these other guys? We see how the king assesses Daniel. How do they view him?
+
+As a competitor.
+
+And how do they evaluate him?
+
+They find no fault in him.
+
+I think it's not just a competitor, but if they're likely to want to bribe people or whatever, they don't want him over them and finding out maybe the stuff that they might be doing.
+
+Oh, very good point. Yeah. I just think it's really interesting how the issues are relevant today: corruption and negligence. I mean, that's exact. Those are the two issues that politicians today deal with.
+
+Human issues. And here he has undergone the scrutiny of opponents investigating him for any little fault they can find, and he's come up clean. That's remarkable. Any high official nowadays, especially someone going for president or the Supreme Court, gets this kind of scrutiny.
+
+But one of the things, if he's chosen these 120, it doesn't seem like they're nearly as concerned about the administration of the kingdom.
+
+Yes, that question, is this really resulting in no loss to the king? That's a real question. And we're starting to see that that's a very important question and that not everyone is devoted to the well-being of the king.
+
+This is actually pointing out one of Daniel's spiritual disciplines. One of his disciplines before the Lord is to be a man of integrity. And to make those choices again and again, where there is the temptation to change the face of things, gain a little bit here in order to get ahead. It's always in order to get ahead. But he doesn't cave to that. It would have been found. And this is over decades and decades of public service. This is amazing.
+
+And it puts him in a position where the Lord can use him powerfully. He wouldn't have known, as he was making those little and big choices, what would be riding on it. But before the Lord, he is intent on serving the Lord and walking uprightly, no matter who else sees or doesn't see. And now it really matters.
+
+Of course, it gets him in trouble. You get people playing all the angles. Thinking about this, in the Middle East, when we were in Israel, got a couple of dresses for the girls in Jerusalem, and the total was $50. And the shopkeeper, one of those sidewalk shops, made out a manual credit card slip. He wrote the amount as 050. And the zero on the front end was only half height. So I took it and I put three lines through the zero and the boxes to the left of it.
+
+He was incensed. I didn't say anything. I just made those marks on there. And the Lord gave me the wisdom to say, “My banker has instructed me to do that.” He couldn't say anything at that point. And he was incensed because he knew I caught him. He would have submitted that for $850. Very clear. But he thought I wouldn't notice and think, “Oh, that's the way they write a zero here.”
+
+And in much of the world, you're rewarded for getting away with corrupt acts. You know, someone who was totally ripped off—inheritance absconded with—from a Pakistani who was in the West. Now, I don't want to slander Pakistanis in general, but we found out that in Pakistan, it is widely the case that what gains somebody real admiration is the ability to rip other people off and get away with it. And the larger the amount, the more prestige you get. You get prestige and the victim's money.
+
+Let's look at verse 5. Let's read 5 through 9, take a big block here, and we'll look at various points in it. We mentioned to the students last night, and you all are probably much more aware of it even than we, but today there are quite a few companies in the U.S. who reward corruption.
+
+And one of my brothers was hired and moved across the country by a pharmaceutical company and found that he was about to be paid to falsify test results so that the FDA would approve a drug. And though he's not a believer, he's a man of integrity. And he said, “I can't do this.” And, of course, they did all they could to talk him into it and then gave him a handsome severance pay, hoping he would not go to anybody about it.
+
+But there is a lot of that now in this country as we have separated ourselves from biblical standards as a culture. And these tests come up more and more frequently. Deciding before the Lord that my well-being, my promotions, my whatever comes from Him as I serve Him, standing upright as a man or woman of integrity and helping other young people to do the same thing—our children and others—because there's a lot of pressure on now to do otherwise in many settings.
+
+Should have included verse 5 in that block. Then these men said, “We shall not find any ground of accusation against this Daniel unless we find it against him with regard to the law of his God.”
+
+What do we make of that? They knew him. And that's what's really interesting. They worked to find some way to get him through what they knew about him. These are people, many of whom he probably knew well. I'm sure that he wasn't the only one who was carried forward from the Babylonian administration. And a lot of these people undoubtedly were among the ones whose lives he saved earlier when he appealed to the king on behalf of all of the wise guys and not just the four from Israel, when he interpreted Nebuchadnezzar's dream.
+
+And he could easily have said, “Yeah, get rid of those guys. Keep us. We're the real servants.” But he didn't. He acted with integrity and trusted the Lord, knowing that that could actually be used against him ultimately. And here it is.
+
+Okay, let's read 6 to 9.
+
+**Then these commissioners and satraps came by agreement to the king and spoke to him as follows: “King Darius, live forever. All the commissioners of the kingdom, the prefects and the satraps, the high officials and the governors have consulted together that the king should establish a statute and enforce an injunction that anyone who makes a petition to any god or man besides you, O king, for 30 days shall be cast into the lion's den.” Now, O king, establish the injunction and sign the document so that it may not be changed according to the law of the Medes and Persians, which may not be revoked.**
+
+**Therefore, King Darius signed the document, that is, the injunction.**
+
+What do we see here on both ends of this transaction? How do they pull this off so easily? What's their methodology, and why does it succeed?
+
+I guess they were all colluding together so they can give this narrative that literally everyone has consulted and agreed upon this, except for Daniel notably wasn't in there. One was missing.
+
+And you mentioned that those guys knew Daniel really well, but maybe King Darius didn't know Daniel as well as they did. He didn't realize Daniel would totally not be able to do this. He's not thinking of Daniel in the history he's in.
+
+Yeah. He certainly knows Daniel really well in terms of Daniel's performance. And we'll actually find out he knows quite a bit about Daniel's devotion to his God. I think he probably just didn't have Daniel in mind.
+
+Yeah, he didn't think this through.
+
+What was their pitch? We understand we've got the content of their pitch, but what's the methodology of their pitch? How do they get the king to go along with this so easily? Why would he have gone along with it?
+
+Are they appealing to his pride?
+
+Definitely. And securing the kingdom. Getting people to support him whether they agree, whether they like it or not. Kind of like when we were in Romania right after Ceausescu fell. We were hearing reports he thought—and he was protesting when he was tried—first saying, “This is not a duly constituted court,” but the thing, “But my people love me. My people love me.”
+
+Why did he think people loved him? Because his underlings ordered entire factories emptied and all the workers sent parading in front of the palace, hailing the dictator. It was a complete circus, which he put on and his underlings put on in whatever combination.
+
+This sort of thing, this time period where everybody's having to appeal to the king about everything, treat him like he's God. It could cause people to question what's going on. Apparently, the king and these guys figured this is a great way to get people just focused on the king and only the king.
+
+Encourage unity and loyalty in a new administration.
+
+To me, it seems like probably the smartest thing they did was limit it to 30 days. Because all the little petty and trivial things that people will be applying and asking for this great king to spend his time on would get so bothersome, not only to the king, but to everybody else. And besides, if it's 30 days, then after those 30 days, that authority goes back to them as the satraps and commissioners.
+
+If this were a permanent injunction, there'd be opposition that you don't have because people can say, "Oh, it's just 30 days. By the time we tried to put a protest through our court system, it'd take 30 years to run it through the courts." Why bother?
+
+Since the gods were just—you tried to identify every supernatural power that does or might exist and cover all the bases by trying to tap into the benefit that they supposedly can impart. And if you're asking for something that doesn't deliver, you just don't get anything. But wherever you're asking where it does deliver, you get it. It seems like it's a win-win, no-lose situation to worship multiple gods.
+
+And that's the way they went at it. Yes, people would be adherents of some particular god, but it was more like a political party or something else. It's what's important to you kind of thing, but not what we think of, because we have the concept of one and only one true God, which changes everything in the way this is viewed.
+
+There's one more thing. Having him as this king judging and being appealed to for all these other matters, it reminds me when Solomon became king. And I hadn't noticed this before, but when God made His offer, he asked for a heart to obey so that he could rule wisely. I'd always thought that he just asked for wisdom directly.
+
+That's a very different kind of authority.
+
+Authority under the true authority.
+
+What about once it's signed, it can't be changed, even by the king? He is a tyrant on top with huge power. What does that sound like?
+
+It's the tradition of that kingdom for more than just him.
+
+Yeah, that's the way the text is presented to us. We have yet to come across—we haven't done extensive search, but numerous Bible scholars say that there's no secular evidence that's been found of this actually being the case.
+
+Actually, in the Archaeology Bible, they said that the Persian monarchs were subject to Persian law. And so, once it was law, he was subject to the law, which was part of the law. It can't be changed. That's the thing.
+
+Yes. And it's part of our legal system that government officials are subject to law themselves. They're not above the law. They are immune to various things that could make it impossible for them to carry on their office while attempts are made to oppose them, but police cannot walk into Congress and march a representative or a senator out on an arrest charge. And such protections are necessary. But the idea that once a law is written, it can't be changed—they are playing with that.
+
+Now, let's look at verse 10 before we move on to Friday.
+
+** “But when Daniel learned that the law had been signed, he went home and knelt down as usual in his upstairs room with its windows open toward Jerusalem. He prayed three times a day, just as he had always done, giving thanks to his God.”**
+
+What do we know about Daniel's prayer life? Because here he's got his window open toward Jerusalem. We're getting a window open on this man's heart and practice before the Lord. He gives thanks to God three times a day. That is a practice that is beautiful, especially given all he has lived through and is still threatened with.
+
+Yeah. What else do we know from other places he is praying for?
+
+The return?
+
+Yes. That's a teaser to read farther in Daniel.
+
+Yeah. Could you say again? I didn't hear what you said.
+
+The return to Jerusalem after 70 years.
+
+Yes. He prays devotedly for his people. Anything else that we know he does, or things that we have reason to believe he prays for from other passages?
+
+Yes. He's got insight, so he might be praying for mysteries to be revealed, or insight.
+
+There are some very interesting adjunct passages, and I'll give them to you, and you can look at them in detail. One is 1 Kings 8:11, verses 46 to 52.
+
+Mention it again.
+
+It's 1 Kings 8. Sorry, I forgot. With the students for the face-to-face, we printed a handout with Daniel 6 text, but it also had these related texts on it. I'll shoot you the file after class.
+
+Then we can just look at these quickly and keep moving.
+
+I want to read some out of it. It's 1 Kings 8, starting at verse 46. This is Solomon as he dedicates the temple in Jerusalem. And he is saying, “When they [meaning the Jewish people] sin against You"—and I love the realism, for there's no man who does not sin, right?—"and You are angry with them and deliver them to an enemy so that they take them away captive to the land of the enemy, far off or near, if they take thought in the land where they've been taken captive and repent and make supplication to You in the land of those who've taken them captive, saying, ‘We've sinned and have committed iniquity. We've acted wickedly,’ if they return to You with all their heart and with all their soul in the land of their enemies who've taken them captive and pray to You toward their land, which You've given to their fathers, the city which You've chosen, the house which I built for Your Name, then hear their prayer and their supplication in heaven, Your dwelling place, and maintain their cause and forgive Your people who've sinned against You and all their transgressions and make them objects of compassion before those who've taken them captive, that they may have compassion on them.”** And again, that Your eyes may be open to their supplication.
+
+We know from later in the book of Daniel, he is praying, representing his nation, praying, confessing. And it's based on this. He has promises from God that through Solomon's prayer, which the Lord confirms, that if they get hauled off because of their sin, which they did, and here they are in that position, if they earnestly seek Him with all their heart and pray, He will hear and He'll give compassion to those over them.
+
+Daniel really cares about the well-being of his people, his family, because it's a tribal culture. And for him, the Jews are his family. He prays concertedly for his people.
+
+We also know something else, and that's from Jeremiah 29, verses 1 through 2, and especially verse 7, and then 10 to 14. And this was a letter that Jeremiah sent to the exiles after the king and the nobles were taken captive. We know Jeremiah was a contemporary of Daniel, and this letter was sent after Daniel was taken captive because he was from the noble families. He would have heard it in Babylon and known that this was the word of God through Jeremiah to him as well as to the other exiles. And I'm not going to read all of it, but the central part, verse seven, Jeremiah says “Seek the welfare of the city where I have sent you into exile and pray to the Lord on its behalf, for in its welfare, you will have welfare.”
+
+He might well, as a godly man who worshiped the true God, have a question: Can I actually serve a pagan king and further his kingdom? He is worshiping a demon. Can I further this king's administration? And the answer is yes. He's not furthering demon worship, and he's not to further ungodly practices.
+
+But look at what He's been doing. He has been a totally faithful administrator. Everything He's been doing has been godly. And you have to qualify that, as Solomon said, “What man is or does not sin.” It's not that Daniel did it perfectly. But Daniel was going all out to do whatever was in fact pleasing to the Lord in principle, even though the beneficiaries were people who didn't know the Lord: to promote the welfare of the community where the Lord planted him.
+
+And people are noticing. The king certainly noticed. This is what we see throughout Daniel. We really see how the Lord works through a faithful believer to reach an unbeliever, including ones in great power, because we keep seeing indicators of what the king—and there are several different ones here—learn about the Lord.
+
+We don't have an indicator that any one of them became a true worshiper of the true God. But they certainly learned about Him and came to respect Him and what results from following Him, even though I presume they were all pantheists.
+
+But through his taking this seriously—this is God's word to me—I get to use my gifts and trust the Lord to promote the welfare of the community and the people where You have planted me. And as he does that, the Lord is proclaimed. And that's a good principle for all of us, because people tend to listen to and watch people that are promoting their welfare principles.
+
+We had some former students in China way earlier, when things were very closed and very anti-Christian. It's returned to that. They kept introducing this man here: “This man is a Christian. He likes to help us.” Openly proclaiming his faith, but saying it's his faith that is leading him to help us. And he was in research, but he loved to help and encourage the people, his colleagues. And that really stood out. The context was officially atheistic, and you were expected to be so.
+
+In the latter part of that, you get the 70 years and all of that that Daniel prays from later on about the return. And we'll send you the citations, and you can look at that.
+
+There is one more thing that we know that Daniel would have prayed for, and that's from Psalm 55. And this is David, and he would have had this, where he's saying, “It's not an enemy who reproached me, then I could bear it. Nor is it one who hates me, who's exalted himself against me. Then I could hide myself from him, but it's you, a man, my equal, my companion, my familiar friend.”
+
+These are colleagues that Daniel's worked with, people he knows. These aren't necessarily his close buddies or friends. This is not Jesus with Judas, but these are people that weren't strangers, and yet they have pitted themselves to his destruction.
+
+Then I turn, as believers, we turn to Matthew 5, where we're called to love our enemies and pray for those who persecute us, who drive us away, and to forgive them because we're representing the Father who does that. As a believer, that's our calling.
+
+And Daniel, we know, tried to promote the welfare of his colleagues and even protect them earlier. This is my speculation, but I think he was praying for them.
+
+And then 1 Timothy 2 says to pray for all who were in authority. And when Paul penned that, Nero was on the throne, who was one of the most despicable, perverse rulers who's ever lived, who used to torch Christians for his garden parties and was an utterly corrupt and perverse man. But Paul, the Lord through Paul, said to pray for him because it's not God's will that any be lost, but all come to the knowledge of the truth. The Lord longs for even the Neros to come to the Lord. Praying for the king, praying for his welfare, praying that he will see God.
+
+Can I ask a question, please, about Psalm 109, then, where the Psalm of David, he's asking that this wickedness stop. But then the prayer is, “May his children be fatherless. May his children be wandering beggars. May a creditor seize all he has. May strangers wander the freeway.” This was something that they had to sing, right? This is a little bit, it seems to me—I'm listening to you, and I would agree with you—but then we read some of these hard things in the Bible. And I don't know what to do with that because he is giving it to God, right? He's like, "I'm a man of prayer," and then it's really interesting: "Treat me with kindness. Deal with me kindly, Lord." Right?
+
+I think I'd be praying that too. He's asking quite very harsh things, and this is something God chose to put in God's Word. I'm listening to you, and I'm sure I think about praying with grace and praying for your enemies. He is praying for his enemy, but not in the expected way. That's why I just have a question about that.
+
+How do we put this together with...
+
+Well, yeah, there's difficulty with that as to what that means, and there are radically contradictory interpretations of that one, so we've got to be careful with that one. Yes, in Scripture we need to look at it, but we can't draw an absolute conclusion from that. I think we talked before, if not—and I may be thinking of last night with the students—but we're about to come to... Why don't we just hold that for a moment? That is really important. Let's hold that because we're going to touch on that same principle near the end of the passage we're looking at tonight. It's a very good question.
+
+Okay, we need to read verses 11 to 13 if we intend for any of us to get to bed tonight. I'll read it.
+
+I'm sorry?
+
+Go ahead.
+
+**"The next 30 days, anyone who prays to any god or man except to you, O king, would be thrown into the lion's den."**
+
+**The king answered, "The decree stands in accordance with the laws of the Medes and Persians, which cannot be repealed."**
+
+**Then they said to the king, "Daniel, who is one of the exiles from Judah, pays no attention to you, O king, or to the decree you put in writing. He still prays three times a day."**
+
+**Then as soon as the king heard this statement, he was deeply distressed and set his mind on delivering Daniel. And even until sunset, he kept exerting himself to rescue him.**
+
+**Then these men came by agreement to the king and said to the king, "Recognize, O king, that it is the law of the Medes and the Persians that no injunction or statute which the king establishes may be changed."**
+
+**Then the king gave orders, and Daniel was brought in and cast into the lion's den. The king spoke and said to Daniel, "Your God, whom you constantly serve, will himself deliver you."**
+
+What's the king's first response, or reaction?
+
+To try to find a way out of it.
+
+Yeah. Go ahead, Carolyn.
+
+I said very troubled.
+
+Deeply troubled.
+
+Yes. Kings of this sort, deeply troubled for a subject? Wow. He knew he'd been deceived by these other leaders.
+
+Why is he distressed? Sounds like a stupid question, but...
+
+He knew an innocent man was going to be punished.
+
+Okay. I also think your average leader, tyrant, whatever, might not care that your average man is going to be in trouble, but I think he really liked Daniel.
+
+Yeah, I think he did too, because he knew about Daniel. I mean, he knew about Daniel's God. That's a big deal, and especially in a pantheistic world, right? I would think it would be hard to keep track of all the gods.
+
+I think he didn't want to lose his best worker.
+
+Yeah, your best administrator. What have we seen earlier of Daniel's personal care for top leaders? This we didn't get into, but the chapter where Nebuchadnezzar has his dream that he's going to go insane for seven years until he kneels, humbles himself before the true God—Daniel is the one who interprets that dream. And it's sandwiched between some strong indicators of how Daniel treated these rulers who had flash tempers and could have ended his life in a moment.
+
+But he starts that with being appalled, and then, "Oh, king, I wish this were about your enemies." Yes. And then he proclaims what the dream means about seven years of insanity and so on. And he was risking his life in saying that.
+
+And then at the end, he adds to the risk. He says, "Oh, king, I advise you: stop sinning, and maybe this will be averted from you." He cares enough to risk his life to urge this king, who's got an ego bigger than anybody's and a flash temper and is cruel. He gives him the road to avert this, or at least to hope to avert it. He cares about these top rulers.
+
+It seems clear this king, Darius, has already learned: this man really cares. He is a man of integrity. He's trustworthy. He's skilled. And he serves his God. This king has a lot of respect for who Daniel has proved to be.
+
+What does he say about Daniel's God?
+
+He said, "Your God, whom you constantly serve, will Himself deliver you."
+
+Darius has come to a point where he has to believe that if this God is real and Daniel is being falsely accused, God has to save him.
+
+It's a cool contrast to the earlier question of, “What God can save you from my hand?”
+
+And that was Nebuchadnezzar.
+
+Does anybody with the statement at the end of verse 16 have a different translation?
+
+Mine says, **“May your God, whom you serve faithfully, rescue you.”**
+
+“Your God will” or “may your God do it.” Now, the translators who translated “may your God do it” are interpreting the verb form there as being a jussive, as being an imperative. However, they have to flag it, saying it is not a jussive in form, but it's jussive in meaning. So that's interpretive. That's not factual. And it's a very unusual form.
+
+This section is in Aramaic, moreover Chaldean Aramaic, and I don't claim to have any expertise there, but it's similar enough to Hebrew that I can read the text and get away with it. And I have to look to experts who know these unusual forms to analyze it with confidence. And it's a very rare form, but the actual form corresponds to the Hebrew word, which is causative, meaning it's talking about somebody making something happen.
+
+My conclusion from that data is that we're better off translating it as a statement: “He will,” rather than, “May he.” In that kind of a situation, I consult 31 widely accepted translations to see how they've translated it, and more than two-thirds of them translate it as a statement of fact: “He will.”
+
+You can do what you want with that, but I think it does say something to us about the conclusion that this king has been drawing from observing, even though he does not worship Daniel's God, he's been observing Daniel and also his buddies who do.
+
+**A stone is brought, laid over the mouth of the den. The king sealed it with his own signet ring and with the signet rings of the nobles, so that nothing may be changed in regard to Daniel.**
+
+He seals it with his signet ring so nobody else could change it. But it's interesting, he locks himself in by having the other guys put their seals on it as well, because he can't sneak back, assuming that the lions are being polite and not just diving right in, and get Daniel out and then reseal it, because the other guys would have to be in on it—the guys who want Daniel wiped out.
+
+I think there's an act of trust here in his letting them seal it also.
+
+“And the king went off to his palace and spent the night fasting, and no entertainment was brought before him, and his sleep fled from him.”
+
+He was distressed.
+
+Fasting—what do kings normally do?
+
+Not fast. They feast.
+
+They feast. And no entertainment was brought before him. We don't need to get graphic, but kings are entertained with the things that men like. And he couldn't sleep.
+
+I think he was hoping that the lions were spending their night fasting as well.
+
+Man really cares. This is more than just, “I don't want to lose a good official.” He really cares about Daniel. And I think it turns that statement, “The God whom you serve will protect you,” into a “won't he?” I mean, I wonder, was he even praying to Daniel's God during the night?
+
+I think there are indicators in that direction when we get farther down the text.
+
+**“And the king arose with the dawn, at the break of day, and went in haste.”** The 30 days are not up, but evidently the minimum time period for this thing had to be overnight. And the next day, according to the sun, was now, “We can open up the den,” which hopefully is not a tomb.
+
+I don't know if you can see this or not, but this is a picture from the Gate of Babylon. These rulers throughout the Mediterranean world kept lions—and this was not a cute little pussycat—as symbols of power and royalty. This is enameled brick, and it's three-dimensional. The depth is not very much. Powerful beasts. And they were often kept not quite full, so hungry, powerful, ready to eat.
+
+And Daniel's cast into the darkness. The stone is put over the lid, and he's there in the darkness with these beasts that are very hungry.
+
+What I think is interesting—we've heard this story so many times—but just reading it carefully, verse by verse, at this climactic point, the story is told from the point of view of the king rather than Daniel. And verse 10, they talk about Daniel. So we start with the other officials and Daniel and the king. Anyway, it's just interesting.
+
+It is. I hadn't noticed that, but it may focus it on how the Lord shows Himself through Daniel to those who are around, that the focus is on the impact on others more than on Daniel.
+
+I have a comment or, yeah, I don't know, question maybe. I've never thought this way before when I've read this passage, but I just can't help but notice all the parallels between Pontius Pilate's response when he had to kill Jesus, and his signet ring and everything. And he didn't run to the tomb the next day. But, I mean, I don't know. There seemed to be some similarities here. Is that just—what? No connection? I don't know. Have you thought about similarities there at all?
+
+Pilate clearly was very distressed at what he was boxed into doing. He did it, and he's culpable for having done it because a ruler is not to cave into pressure from people. His wife was the one who lost Pilate, and Pilate and Herod played ping pong with Jesus, sending him back and forth, each one hoping the other would do the nasty deed or release him. And neither one was willing to do either until finally Pilate caved when he was confronted with the fear that Caesar would do him in if he didn't go along with this.
+
+I think your comment, combined with Beth's, really focuses on the fact that the Lord is seeking to reach those rulers. And what do they see? And, of course, we don't know where things went afterwards with Pilate. We don't know where things went with Darius. But they clearly saw innocence there and were deeply, deeply worried, trying to work out a better solution that didn't condemn an innocent man. Though Pilate, I don't think, cared at all about Jesus personally; didn't know Him.
+
+I wanted to comment on the... Yeah, please, Carolyn.
+
+And you were talking earlier about how Daniel cared about Nebuchadnezzar, and we assume he cared about Darius, that the Lord gave him that or asked him to do that or whatever. And I've been sitting here thinking about that in modern times. Like if somebody—a Christian—happened to be working with Mao Tse Tung or Ceausescu or whatever. I mean, it's kind of amazing to me when I put it in modern—what we know about modern tyrants or whatever that is—to pray for them. It's just, anyways, just saying. But not only just—I could see praying for them kind of from a distance—but if you actually were working for it, you know, I don't know. It's an interesting thought.
+
+It is. And with American presidents, it's not the cruel tyrant type of situation, but we know that Billy Graham came alongside presidents—U.S. presidents of both parties—throughout his ministry. And I don't believe there was any president who didn't make Graham welcome for individual personal consultation. Now, what they did with his advice is another matter, but they all respected him. And at the turn of the century, Time magazine clearly—you know, when they come out with the Man of the Year, now the Person of the Year—but there was absolutely no question Billy Graham was the man of the century.
+
+And the Lord does bring His people alongside people at the top. We had the privilege of running with Jimmy Carter for miles on a run. He was telling us—just the three of us were conversing, along with secret agents running along with us. Yeah, we had the Secret Service or Marine guys run along with us. But he was telling us about how he, as a believer, as head of state when he was president, got to reach out in the Lord to Sadat, as head of Egypt. They were riding in a car—his best friend in diplomatic circles—and Sadat asked him, "You know, I understand why Abraham is the father of the faith for Jews and Muslims, but why Christians?" He got to explain what faith in Jesus is about to Sadat, and two months later Sadat was assassinated. We know he got to hear the gospel.
+
+He was also saying he got to do the same with President Park of Korea. Again, he got to share his faith, and two months later he was assassinated. But the opportunities where the Lord seeds His people in, and He longs to reach out to people of every station of life—and it includes people at the top. And this is clearly an example of that.
+
+Okay, we better continue on here. When he came near to the den to Daniel, he cried out with a troubled voice. Another indicator. The king spoke and said to Daniel, "Daniel, servant of the living God, has your God, whom you constantly serve, been able to deliver you from the lions?" I think we have some indicators there of what he knew about Daniel's faith and Daniel's practice of his faith. And this is long-term, careful observation: "Your God, whom you constantly serve." And "servant of the living God. And somebody asked last night, and I looked it up: yes, it is the living God, not a living God. The article is there. It's not prefixed like in Hebrew; it's suffixed in Aramaic, Chaldean. But I was able to read that with my kindergarten knowledge, or may have.
+
+Anyway, the way that he says it, it doesn't almost seem like he was negotiating with God all night long. It's almost as if, had Daniel died, Daniel's God would be inconsequential, right? He's just—but it's almost as if this is part of this dialogue.
+
+For a king to be able to say this—he fasted and wrestled all night long. It's pretty deep and personal and spiritual. It wasn't just the, "Oh, I was kind of thinking about this." It's soul-wrenching.
+
+Wow. That is awesome, that what's at stake for the king is not just Daniel and the implications of possibly losing Daniel. But is the big test demonstration: what validity is there to what he's observed and the conclusions he's been drawing about Daniel's God?
+
+It's almost as if before this, I think that Daniel's ability as an administrator, right, that was what was attributed to his God. Daniel is blessed by his God. But having Daniel put in this situation, in the lion's den, it really makes the king think deeper about this God.
+
+And this is such a dramatic moment. You can almost hear the squeak of—he has, hasn't he?
+
+Yeah, dramatic reader reading this text to an audience that doesn't know the text is going to make a very pregnant pause between verse 20 and verse 21. It leaves everybody on the edge of their seats. Will there be silence, or just the roar of the lions? Or their pelts?
+
+**Daniel spoke to the king, "O king, live forever."** I wonder how many kings have said, "Are they going to keep saying, 'Live forever'? Forever? Listen to that gibberish."
+
+**"My God sent His angel and shut the lions' mouths, and they have not harmed me. Inasmuch as I was found innocent before Him and also toward you, I have committed no crime."**
+
+In a way, it's almost a test of innocence, and he has proven out, and God has vindicated His servant. I doubt that Daniel slept either. It was probably a night in the darkness, thanking the Lord, praying, walking up and down amidst lions whose tummies were rumbling and would have loved to have had dinner. But the angel there—whether he could see the angel or not—he knew the angel was there.
+
+And one thing throughout the accounts of Daniel, he always attributes what he's able to do to God. He never leaves it as if it's him. He could just leave out the God part, and the king would think it was him. "Hey, here I am." But he always first attributes it to God, which is where his trust is and his focus is. But it's easy for us to leave the God part out.
+
+I think it's also interesting how, like an Esther, before she stood before the king, she had her entire people pray for her. But in this story, it is literally the king and all the bad guys and Daniel. And you can't help but wonder if there were people praying for Daniel. I'm sure there were.
+
+But I think that how we're talking about how God uses all of us to reach different people in different stations in life, this really is a story about a king and Daniel, right? And I guess for us not to lose hope in praying for a king. And when we suffer under a leader, when we're falsely accused—because we all are, even I'm like in my little small domestic sphere—I still have the same power struggle where being falsely accused, but being watched by other people, how I react.
+
+Wherever there are people, this type of thing goes on.
+
+But just really neat to see that in this story, it's about God reaching out to a king. And Daniel was fasted and prayed for by the king.
+
+**"The king was very pleased, gave orders for Daniel to be taken up out of the den. So Daniel was taken up out of the den. No injury whatsoever was found on him because he had trusted in his God.**
+
+I was thinking of—you were talking about Ray Stedman's quote.
+
+Ray liked to say, "A Christian is always cheerful, always at peace, and constantly in trouble."
+
+Always joyful, always at peace, constantly in trouble. Something like that. But they're constantly in trouble. I mean, it's the peace and the joy in spite of the naturally threatening stuff.
+
+And the faith of both men, the one outside the den and the one in the den, was tested. And the Lord showed Himself to be the living God.
+
+Now, keeping moving because of our time, here we come to the issue that Linda was asking about. The king then gave orders that brought those men who had maliciously accused Daniel. They cast them, their children, and their wives into the lion's den, and they had not reached the bottom of the den before the lions overpowered them and crushed all their bones.
+
+So it's not that the lions weren't hungry as far as Daniel's concerned. The fact that Daniel was spared when these guys were all crunched right away, the lions were hungry enough to wipe out a crowd, but they didn't touch the one man when it was the only dinner available.
+
+Okay, now the question: why?
+
+We don't have any problem, I think, with the ones who've accused him, and actually this even accords with the Jewish law, the Torah, Old Testament law, that a false witness is to be punished with the punishment that they were seeking for the innocent victim they were trying to harm. So that's okay. But why the wives and children? Any thoughts?
+
+Bear in mind, this is a Semitic text. We are mostly Westerners, Japhethites, and some people from the pragmatic cultures, the Hamites. What we get from those distinctions in our heritage, which division of mankind you go back to—and there's a name for the three sons of Noah—no difference in worth whatsoever, but like everything else, even like the three members of the Godhead, differential strengths based on seeing things in the same three dimensions, but one particular one tending to come to the foreground.
+
+And what Semites see is the cause, the absolutes. This is why we see the zeal, all the warfare and such, and that's much more important than people. If it furthers the cause, you can blow up innocent people and school buses full of children and so forth. I mean, that's perverse and that's an expression of the flesh, but that's why that sort of thing is kind of fair in the Middle East.
+
+We, in a largely Japhethitic culture, are very, very attuned to the personal, the individual dimension, which is equally important, as is the pragmatic dimension, also equally important. There's no difference in the importance. We all need to learn from each other and listen to each other and get a broader perspective by doing so.
+
+But of course, after the fall, we tend to withdraw into one particular perspective and say people who don't share it are wrong. Thinking of justice to the individual, we rankle rightly. And that contrast between the Semitic and the Japhethitic is exactly what was behind the various hostage instances where Semitic groups learned, kidnapped one or two Americans and put them on television, and you've got a nation of a quarter billion people on its knees before you. You couldn't do that in the Middle East. Nobody paid any attention to the individuals.
+
+The emphasis here, the focus here, is the recognition of the influence from generation to generation. And what they're focusing on is, we don't want to just get rid of the individuals. Their families are very influenced by them, and their descendants are just going to keep on the same stuff generation after generation. We need to cut it off here.
+
+That's the emphasis behind this. It doesn't mean God's pleased with it, but I think that's what leads to the sense that that is the right thing to do. You go back to at least one of the Psalms near the end of the Psalms, 120-something or maybe around there, that talks about God wreaking vengeance on the Babylonians for coming and taking the Jews captive. And it says, “Seize their little ones and smash their heads against a rock.”
+
+Now, Christians have rightly been totally appalled and aghast at that, and how can Scripture say that? What it's saying, I don't think—Psalm 137, thank you—I don't think it is actually a plea to do that with individuals. I think it is a very graphic, “May their influence be cut off.”
+
+And we look at it and we want to read everything as dealing with individuals. I would hope the psalmist wasn't thinking that, hoping that people would run around and actually do that. I can't say that for sure.
+
+Sujin?
+
+Just a couple of things. I think it's interesting, trying to make the connections that going back to Esther, right? The same Persian Empire. When Haman was found guilty, instead of the gallows that he built for Mordecai, it was then used on him. And I believe all of his family, his sons, were also executed too. I think there's definitely some cultural practices that was done there that I'm not familiar with.
+
+And the other thing that I wanted to bring out is going back to what Linda was saying, is this idea of the vengeance being generational. I think it's just so interesting. When God speaks to Moses, and when He expresses Himself to Moses and His people, not only does He say, “I, the Lord God, am compassionate, full of lovingkindness, forgiving iniquities,” but He doesn't stop there.
+
+“And I will bring vengeance.” Yes, forgiving iniquity, transgression, but by no means leaving the guilty unpunished. For thousands, and that is thousands of generations. And in one place, it just says, “for thousands.” And in parallel, between Exodus and Deuteronomy, it says, “thousands of generations,” but visiting the sins of the fathers.
+
+Now, it typically gets translated “punishing,” which it can mean. But what He's saying is that, and this is actually the general mustering the troops and inspection and going to act on what He finds, of the third and fourth generation—and people stop there—third and fourth generation of those who hate Me.
+
+Now, what is He saying? He's not saying—Scripture has to interpret Scripture—He's not saying that you mess up and God's going to thrash your kids and thrash your grandkids and thrash your great-grandkids. What is He saying? He says, “The reason I want this to stop with you is because your influence will influence your children, your grandchildren, your great-grandchildren, and to the degree that it influences them, and they continue to hate Me as you do and blow Me off and pursue ungodliness, I'm going to have to address that with each one of them.”
+
+But you could take that out of the influence that they are acquiring through you now. That's not going to take care of everything, but you can help them with regard to this specific issue by dealing with it now, and as you're the only one who can deal with it in you before we pass it on to other people.
+
+Tammy, thank you for noting Achan and his family. Erica's got a really good take on that one. Why was Achan—this is Joshua 7—why was not only Achan but his family trashed? They lived in the tent, right?
+
+Yes.
+
+They were not ignorant of what he'd done. He was hiding it, and they were accomplices because they knew what he was doing. And when the appeal was, “Okay, who's violated the ban? We've gotten hurt because there is disobedience among us,” they didn't speak up. And so they aligned themselves with Aiken. And so it was a judgment on the guilty parties.
+
+I think several other things. One is, this is a description of a pagan culture. And this was a standard practice, and still is in a lot of places in the Middle East, that not only the one found guilty, but the entire family are wiped out, and even the house down. They don't want there to be any memory left. And it's a very strong deterrent: if you care about your family, you won't do what's wrong, and you will not speak up about what's been done to these people because you know that they'll say, “Oh, okay, fine.”
+
+And that does not mean that God sanctions that. This is a judgment of a pagan king. But where's the God of justice in this? Almost certainly these families would have known this conspiracy was hatched, talked over, worked on by a lot of people. And so they probably were not innocent.
+
+But—and we do know, and another thing we have to bear in mind—we have to distinguish between the descriptive and prescriptive passages of Scripture. This is an historical account. We have to be careful not to assume that everything the Bible says is a description of what pleases God. Everything's in there. We have to take our instruction in what does and doesn't please God from the statements of Scripture about what does and doesn't please God.
+
+And I can't think of where it is, but part of the Torah, the first five books, does talk about God punishing the person themselves and not the family for a man's sin. He has to be punished for his own sin, in Leviticus and elsewhere. Not the family. That no one is to be punished for the father's sins, only for their own. And that was radical.
+
+This is Daniel. I just want to maybe put in another point. Being the pagan king in that culture, which is super super violent, also being practical, I don't think the king wants you to leave the children because the children will remember what the king did to their parents. They will grow up and they will take revenge.
+
+Yeah, because vengeance is... and still is. And the notion that, you know, you must avenge wrong. And we see this outside the Middle East. Look at a lot of the ethnic rivalries, such as in the—I'm seeing more of the, anyway, the, you know, Asia Minor, and in various, you know, the Soviets were really wise—well, shrewd, I should say—when they took over Eastern Europe after World War II. They took the territories of rival ethnic groups and split them, and combined together territories of two ethnic groups that were at enmity with each other.
+
+And it was very shrewd politically because they couldn't join together against the Soviets because they hated each other. And you saw, once the Iron Curtain came down, so to speak, you saw those things come back. “You trashed us. You took our territory 300 years ago, and we're going to get it back.” “You took it from us 400 years ago.” And it never ends.
+
+One other comment is with David's psalms. You have to remember David was charged with being king, which meant that he was charged with keeping justice. And he had a huge passion for justice, encouraging his people to be righteous and for standing against the wicked in terms of being a leader in his society, and in a society that was supposed to display the Lord.
+
+And so I look at what David writes from that light. Some of them sound very personal, and I think that part of it is Psalms—we're getting a view into a man's heart. And I've got to say, not all of my prayers are pure either, especially if there's threat or hurt to people I love.
+
+And so David is raw before the Lord, and I think we can't say that everything he is praying is sanctioned by God. We have to look at what God does with those prayers.
+
+Yeah, I want to jump in about those so-called cursing psalms. What I personally found was that, you know, at a certain point in my life, I actually—I think I understand those thoughts. I actually enjoy them based on my life experience. And, like in my particular case, it was just in my work, I'm dealing with serious mental illnesses. I mean, I love those thoughts, but that is how I feel about those mental illnesses. Those thoughts actually express my feelings.
+
+Yeah, as Erica mentioned earlier, with the women—the numerous women—she has been able to serve who've been victims of sexual abuse, you know, we do rightly want justice. God wants justice, but He also wants mercy. It's not His will that anybody perish, but that all be saved. But He makes His will subject to its being accepted.
+
+And so God is perfect, is able to separate perfectly between the sin and the sinner. And it doesn't matter how horrendous anyone's sin is. God will save that person if they repent. But if they do not, then they will suffer divine judicial judgment and punishment.
+
+And it's not—people have the idea of God punishing as a gleeful tormentor of people. Not at all. He grieves. He wept over Jerusalem.
+
+We need to, since we're way into overtime, at least touch on verses 25 to 27. Who feels like reading after all this?
+
+**Then Darius the king wrote to all the peoples, nations, and every language who were living in all the land, “May your peace abound, your well-being. I make a decree that in all the dominion of my kingdom, men are to fear and tremble before the God of Daniel, for He is the living God and enduring forever. And His kingdom is one which will not be destroyed, and His dominion forever.”**
+
+He's drawn some pretty strong conclusions.
+
+**“He delivers and rescues and performs signs and wonders in heaven and on earth forever, who also has delivered Daniel from the power of the lions, from the hand of the lions,” where it applies to Paul also.**
+
+You see the rampant lion with the claws, but you also see the lion with the one arm outstretched that's getting ready to crush the skull.
+
+The king is proclaiming the living God. He is the living God. And that also answers about Daniel, the servant of the living God.
+
+He's drawn that conclusion: the living God, and enduring forever. His kingdom will not be destroyed. His dominion will be forever.
+
+What is and isn't happening here? He has not become a monotheistic worshiper of Daniel's God. There's no indicator in the text that he has. But what do you do in a setting where there is acknowledgement that there's supernatural power and that it can be exercised benevolently or harmfully? You try to get on the good side of every powerful being out there.
+
+You develop a pantheon. You keep adding gods. It's very logical and it's very pragmatic. And here he's saying to fear and tremble before this God. Take this one seriously. He still doesn't say, before only this God.
+
+Daniel's colleagues did not tremble in fear before Daniel's God. And they were gone at this point. Fear and tremble. Take this one seriously. The implications are life-and-death implications. That's what I take. Fearing God is you recognize that how you view, respond to, relate to, react against God—this God—has life-and-death implications.
+
+He doesn't say, “And worship Him.”
+
+Respect Him, but he doesn't say, “And fall down and worship Him.”
+
+He's in process.
+
+The text doesn't answer. We'll find out when we're home with the Lord.
+
+Is he there?
+
+He says He delivers and rescues. He's saying, “This isn't just, put Him high on the people I admire in history thing.” He's saying, “You can benefit from this.”
+
+And the stage has been hugely expanded from Babylon. The Persian Empire was enormous, and this is sent out everywhere. And all of the officials, the satraps and so on, all knew about it. And what would they be talking about when they got home? “Oh, we had wine at the capitals.” Nope. They would have been talking about this.
+
+It went to every corner of this vast empire, and I'm sure beyond along the travel routes. It's taken from a king. It has that validity. It's like social media today, but even better because it's coming straight from the king's mouth.
+
+We actually have been privileged to attend and participate in a couple of presidential prayer breakfasts. And you know what's the really interesting thing about them? There's no prayer. They do everything but pray.
+
+Anyway, so this Daniel enjoyed success in the reign of Darius and in the reign of Cyrus the Persian. The Lord takes care of His faithful people.
+
+It's incredibly impressive how much Daniel impacted a whole bunch of people, because Nebuchadnezzar sent out all this information, and now Darius is sending out all this information. Not just Daniel, but the other three that were with him.
+
+And Cyrus commands the rebuilding of the temple. Why does he do it? You build the temple of the God that these people revere. That ingratiates you with them. You also provide a bunch of employment because you let out the contracts for the work to them. But also, to whatever degree that God may actually have real power, you got a bunch of people appealing to that God for your well-being. I mean, after all, this king has given us this temple. We ought to pray for him while we're in the temple. Very pragmatic.
+
+Now, where we're going from here—I'm not the only one who gets on a plane tomorrow morning. I'm out of here for a writing retreat, and we'll be back at the end of October. I'll be back for part of this in two weeks.
+
+Next week, Erica is going to lead a seminar on dealing with anxiety. It's something that certainly shows up in all of these texts. They have a lot to worry about. All four of these episodes we've looked at in Daniel—and we're not doing all of Daniel—our point was to look at how a believer in the true God can approach anxiety living in a hostile setting.
+
+And the whole point of this was primarily for the Stanford students. And we have kind of a double dose this year because last year's freshmen have just arrived on campus as though it were their first year, even though academically it's their second year. And the acclimatization problem is huge this year.
+
+There are multiple problems coming out of the sheltering in. Our reps are saying that the freshmen this year are very different from any they've had before. They're starved for community. At the age when—even in high school—getting established outside the home is the big thing at that stage in life, they're deprived from a lot of that. And then also the establishing in a college community, which is beyond the high school thing.
+
+They're late in leaving home physically, geographically, and also, having spent the last year entirely interacting with the glowing screen, the interpersonal, face-to-face relational skills are really impaired.
+
+Professors are complaining that they thought it was bad before with the students being on their cell phones and texting and so forth in class. That was nothing compared to the scene now. The students are so used to living life as observers that they don't know how to deal with the fact that there are real people in there with them. And you can't just carry on a private conversation with anyone you want, whether they're in the room or out of the room and you're on your cell phone or whatever.
+
+Our point going into Daniel for all of us is to look at the spiritual disciplines he built in that enabled him to be used so powerfully in his age and throughout so many decades.
+
+And it's really stunning to me to think how old he was when he finished with Cyrus. He must have been in his 90s.
+
+Daniel was a sassy man who tried to sass the king. The king, he said, he wouldn't stand for any such a thing. He put him in a dungeon with lions underneath, but Daniel was a dentist and he pulled the lion's teeth.
+
+Young folk and old folk and everybody, come to our meeting house and have a lot of fun.
+
+There's so many verses that it's a total different take on all the Bible stories. They're really fun. It's a great campfire song.
+
+Now you know the real story after all this study.
+
+> Oh, Lord, thank you. Thank you for Daniel, and thank you that You are the living God with us as You were with Daniel, as You are with Daniel. Lord, I'm looking forward to meeting that man and hearing more stories, as we've just gotten the biggest ones.
+
+> Lord, may we continue to learn from this man's life as he developed long and steady practices of seeking you.
+> for his own welfare and that of his friends, for the welfare of his people, of his extended family, for the welfare of the nation you planted him in, and even of his enemies.
+> Lord, may we be powerfully used as he was, as people of prayer.
+> In a time when it is badly needed, it is always needed.
+> But more and more obviously needed.
+> And Lord, may each of us be used to show you the living God to the people we rub shoulders with.
+> Give us courage to trust you.
+> As Daniel did.
+> And thank you that as we do, many get to see you, the living God.
+> Thank you, Lord, in your name.
+> Amen.
