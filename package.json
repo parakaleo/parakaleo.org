@@ -36,6 +36,7 @@
   },
   "devDependencies": {
     "browser-sync": "2.18.13",
+    "docx": "^9.7.1",
     "gulp": "^3.9.1",
     "gulp-clean-css": "3.7.0",
     "gulp-header": "1.8.9",
